@@ -1,0 +1,8 @@
+# The bundled preprocessors (*.pkl) were pickled with scikit-learn 1.6.1.
+# Exact torch / streamlit versions used when the model was trained were not
+# recorded; the floors below match the APIs used by the code.
+streamlit>=1.31
+torch>=2.0
+pandas>=2.0
+numpy>=1.24
+scikit-learn==1.6.1

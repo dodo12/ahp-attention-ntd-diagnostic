@@ -1,0 +1,601 @@
+Skin_Sign_Category,Num_Lesions,Size,Location,Onset,Painful,Warm,Itchy,Texture,Contains_Fluid_Pus,Color,Surface_Appearance,Sensation_Loss,Enlarged_Nerves,Family_Affected,History_Acute_Reactions,Unilateral_Bilateral,Associated_Conditions,Disease
+Lumps,Single_to_Few,Medium,Legs,Unknown,Yes,Yes,Yes,Soft_Bumpy,N/A,Red,N/A,N/A,N/A,No,Yes,Bilateral,N/A,Abscesses
+N/A,Single_to_Few,N/A,Genitalia,Follows_Trauma_Rubbing,No,No,Yes,Hard_Rough_Warty,Yes,Increased_Pigmentation,Yellow_Crusts,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Eczema
+Lumps,Single_to_Few,Medium,Feet,Follows_Trauma_Rubbing,Sometimes,No,No,Hard_Rough_Warty,N/A,Increased_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,No,No,No,Unilateral_or_Asymmetrical,N/A,Yaws
+Patches,Single_to_Few,Large,Anywhere,Follows_Trauma_Rubbing,Sometimes,N/A,Yes,Firm_Smooth,N/A,Increased_Pigmentation,Elephantiasis,No,N/A,No,No,Bilateral,None,Eczema
+Swollen Limbs,Single_to_Few,Medium,Legs,Unknown,Yes,No,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,N/A,No,Yes,Bilateral,N/A,Lymphatic_Filariasis
+Lumps,Single_Large,Medium,Bony_Prominences,Slow_from_Lump,N/A,Yes,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,None,Tungiasis
+N/A,Single_to_Few,N/A,Feet,Unknown,N/A,No,N/A,Soft_Bumpy,No,Red,N/A,N/A,N/A,No,No,Bilateral,N/A,Podoconiosis
+Swollen Limbs,Single_to_Few,Small,Genitalia,Slow_from_Lump,Yes,Yes,Yes,Soft_Bumpy,Yes,Reduced_Pigmentation,Yellow_Crusts,No,Yes,No,Yes,Bilateral,N/A,Lymphatic_Filariasis
+Ulcers,Multiple,N/A,Anywhere,Follows_Trauma_Rubbing,N/A,No,No,Soft_Bumpy,Yes,Increased_Pigmentation,Elephantiasis,No,Yes,No,Yes,Unilateral_or_Asymmetrical,N/A,Buruli_Ulcer
+N/A,Single_to_Few,Medium,Legs,Follows_Trauma_Rubbing,Yes,N/A,N/A,Soft_Bumpy,No,Reduced_Pigmentation,N/A,N/A,No,Yes,Yes,Bilateral,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Swollen Limbs,Single_Large,Large,Feet,Slow_from_Lump,Sometimes,N/A,Yes,Hard_Rough_Warty,Yes,Red,N/A,N/A,Yes,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+Swollen Limbs,Multiple,Medium,Genitalia,Slow_from_Lump,Yes,N/A,No,Soft_Bumpy,Yes,Red,N/A,N/A,No,Yes,Yes,Bilateral,Long_Standing_Lymphoedema,Podoconiosis
+Swollen Limbs,Single_Large,Large,Feet,Slow_from_Lump,Yes,N/A,No,Hard_Rough_Warty,No,Red,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Lymphatic_Filariasis
+Lumps,Single_to_Few,Large,Legs,Unknown,Sometimes,Yes,Yes,Hard_Rough_Warty,No,Increased_Pigmentation,N/A,N/A,No,Yes,No,Unilateral_or_Asymmetrical,N/A,Cutaneous_Leishmaniasis
+Lumps,Single_Large,Medium,Legs,Slow_from_Lump,N/A,N/A,N/A,Soft_Bumpy,Yes,Reduced_Pigmentation,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Abscesses
+Lumps,Multiple,Large,Legs,Slow_from_Lump,Yes,No,N/A,Firm_Smooth,No,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Lumps,Multiple,Large,Anywhere,Unknown,N/A,Yes,No,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,None,Cutaneous_Leishmaniasis
+Swollen Limbs,Single_Large,Large,Bony_Prominences,Follows_Trauma_Rubbing,N/A,No,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Podoconiosis
+Patches,Multiple,N/A,Anywhere,Unknown,No,N/A,N/A,Hard_Rough_Warty,Yes,Reduced_Pigmentation,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Scabies
+Patches,Multiple,Small,Anywhere,Follows_Trauma_Rubbing,N/A,No,Yes,Soft_Bumpy,N/A,Red,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Leprosy
+Patches,Single_Large,Medium,Feet,Follows_Trauma_Rubbing,No,N/A,N/A,Hard_Rough_Warty,No,Increased_Pigmentation,N/A,N/A,N/A,No,Yes,Bilateral,N/A,Fungal_Skin_Infection
+Patches,Single_Large,N/A,Legs,Follows_Trauma_Rubbing,Sometimes,No,Yes,Soft_Bumpy,No,Increased_Pigmentation,Yellow_Crusts,No,N/A,No,No,Unilateral_or_Asymmetrical,None,Eczema
+N/A,Single_Large,Small,Bony_Prominences,Follows_Trauma_Rubbing,No,No,N/A,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,Yes,No,No,Bilateral,None,Scabies
+Lumps,Single_Large,Medium,Anywhere,Slow_from_Lump,N/A,No,Yes,Soft_Bumpy,N/A,Red,N/A,No,N/A,Yes,No,Bilateral,None,Abscesses
+Lumps,Multiple,Small,Anywhere,Slow_from_Lump,N/A,No,Yes,Hard_Rough_Warty,Yes,Red,Raised_Edge_Red_Pebbly_Base,N/A,No,Yes,Yes,Bilateral,N/A,Cutaneous_Leishmaniasis
+Patches,Single_to_Few,Large,Feet,Unknown,No,No,Yes,Soft_Bumpy,N/A,Increased_Pigmentation,Normal,N/A,N/A,Yes,Yes,Bilateral,N/A,Eczema
+Lumps,Single_to_Few,N/A,Anywhere,Slow_from_Lump,Yes,N/A,N/A,Hard_Rough_Warty,Yes,Increased_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,N/A,Abscesses
+Swollen Limbs,Single_to_Few,Large,Anywhere,Slow_from_Lump,N/A,No,No,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,No,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+Lumps,Single_Large,N/A,Anywhere,Follows_Trauma_Rubbing,N/A,Yes,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,Normal,No,N/A,No,No,Bilateral,None,Tungiasis
+Patches,Single_Large,Medium,Legs,Slow_from_Lump,N/A,No,N/A,Soft_Bumpy,No,Red,Normal,N/A,Yes,No,Yes,Bilateral,None,Fungal_Skin_Infection
+Swollen Limbs,Multiple,Large,Legs,Slow_from_Lump,No,Yes,Yes,Hard_Rough_Warty,N/A,Red,Normal,N/A,Yes,Yes,No,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+Patches,Multiple,N/A,Genitalia,Unknown,N/A,N/A,N/A,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,Yes,N/A,Yes,Yes,Bilateral,N/A,Scabies
+Swollen Limbs,Single_to_Few,Large,Genitalia,Unknown,N/A,Yes,N/A,Hard_Rough_Warty,N/A,Red,Normal,Yes,N/A,Yes,Yes,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Podoconiosis
+Swollen Limbs,Multiple,Small,Anywhere,Unknown,No,N/A,No,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,N/A,Yes,Yes,No,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+Lumps,Multiple,Medium,Bony_Prominences,Follows_Trauma_Rubbing,N/A,Yes,No,Firm_Smooth,Yes,Red,Normal,N/A,N/A,No,Yes,Bilateral,None,Leprosy
+Lumps,Single_Large,Small,Bony_Prominences,Follows_Trauma_Rubbing,Yes,No,N/A,Soft_Bumpy,Yes,Reduced_Pigmentation,Normal,N/A,Yes,Yes,No,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Lumps,Multiple,Small,Legs,Follows_Trauma_Rubbing,N/A,No,Yes,Firm_Smooth,Yes,Reduced_Pigmentation,Normal,N/A,N/A,Yes,No,Bilateral,Varicose_Veins,Onchocerciasis
+Lumps,Single_Large,N/A,Legs,Follows_Trauma_Rubbing,Sometimes,No,No,Soft_Bumpy,N/A,Red,N/A,No,No,No,No,Unilateral_or_Asymmetrical,N/A,Yaws
+Lumps,Single_to_Few,N/A,Feet,Unknown,N/A,Yes,No,Soft_Bumpy,No,Reduced_Pigmentation,N/A,Yes,N/A,No,No,Bilateral,N/A,Yaws
+Ulcers,Single_Large,Large,Legs,Unknown,No,N/A,N/A,Soft_Bumpy,No,Red,Raised_Edge_Red_Pebbly_Base,No,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Yaws
+N/A,Single_Large,Medium,Anywhere,Unknown,No,N/A,Yes,Firm_Smooth,N/A,Increased_Pigmentation,N/A,No,N/A,No,No,Bilateral,N/A,Podoconiosis
+Lumps,Multiple,Small,Legs,Follows_Trauma_Rubbing,Sometimes,No,No,Firm_Smooth,Yes,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Cutaneous_Leishmaniasis
+Swollen Limbs,Single_Large,Small,Feet,Follows_Trauma_Rubbing,N/A,No,N/A,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,Yes,N/A,No,No,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Podoconiosis
+Patches,Single_to_Few,N/A,Feet,Slow_from_Lump,N/A,No,N/A,Hard_Rough_Warty,No,Red,Yellow_Crusts,N/A,N/A,No,No,Bilateral,None,Eczema
+Lumps,Single_Large,Medium,Feet,Unknown,N/A,N/A,No,Soft_Bumpy,Yes,Reduced_Pigmentation,N/A,Yes,N/A,Yes,No,Bilateral,None,Tungiasis
+Swollen Limbs,Multiple,Small,Anywhere,Unknown,No,No,No,Soft_Bumpy,N/A,Red,N/A,No,No,Yes,Yes,Bilateral,Long_Standing_Lymphoedema,Podoconiosis
+Lumps,Single_to_Few,Large,Legs,Slow_from_Lump,N/A,Yes,Yes,Firm_Smooth,N/A,Increased_Pigmentation,Yellow_Crusts,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,None,Abscesses
+Patches,Single_to_Few,Medium,Genitalia,Slow_from_Lump,No,Yes,Yes,Hard_Rough_Warty,N/A,Reduced_Pigmentation,N/A,N/A,No,No,Yes,Unilateral_or_Asymmetrical,N/A,Eczema
+Patches,Multiple,N/A,Feet,Slow_from_Lump,Yes,No,N/A,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Normal,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Scabies
+N/A,Single_Large,Medium,Anywhere,Follows_Trauma_Rubbing,N/A,No,Yes,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Abscesses
+Patches,Single_Large,Small,Bony_Prominences,Unknown,Sometimes,No,N/A,Firm_Smooth,N/A,Increased_Pigmentation,Elephantiasis,N/A,N/A,Yes,Yes,Bilateral,None,Fungal_Skin_Infection
+N/A,Multiple,Small,Genitalia,Unknown,No,N/A,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Mycetoma
+Lumps,Single_to_Few,N/A,Feet,Slow_from_Lump,N/A,N/A,Yes,Firm_Smooth,Yes,Red,Normal,Yes,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Lumps,Multiple,N/A,Anywhere,Follows_Trauma_Rubbing,Sometimes,No,No,Hard_Rough_Warty,N/A,Red,Raised_Edge_Red_Pebbly_Base,No,N/A,Yes,No,Bilateral,None,Cutaneous_Leishmaniasis
+Lumps,Single_to_Few,N/A,Bony_Prominences,Unknown,Sometimes,N/A,N/A,Soft_Bumpy,Yes,Reduced_Pigmentation,Yellow_Crusts,N/A,N/A,No,No,Bilateral,None,Tungiasis
+Lumps,Single_Large,Large,Feet,Follows_Trauma_Rubbing,N/A,No,No,Firm_Smooth,N/A,Red,Yellow_Crusts,Yes,N/A,Yes,No,Bilateral,N/A,Mycetoma
+N/A,Single_to_Few,Small,Legs,Follows_Trauma_Rubbing,Yes,N/A,N/A,Soft_Bumpy,N/A,Increased_Pigmentation,Normal,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Abscesses
+Lumps,Multiple,Small,Genitalia,Unknown,No,Yes,No,Soft_Bumpy,N/A,Red,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Tungiasis
+Swollen Limbs,Multiple,Small,Genitalia,Unknown,Sometimes,Yes,N/A,Firm_Smooth,N/A,Increased_Pigmentation,Elephantiasis,N/A,N/A,No,Yes,Bilateral,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Swollen Limbs,Multiple,Medium,Genitalia,Slow_from_Lump,Yes,N/A,No,Soft_Bumpy,N/A,Red,Elephantiasis,N/A,N/A,Yes,Yes,Bilateral,N/A,Lymphatic_Filariasis
+Ulcers,Single_to_Few,Large,Anywhere,Slow_from_Lump,No,No,N/A,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,N/A,No,Yes,No,Unilateral_or_Asymmetrical,None,Yaws
+Patches,Multiple,Medium,Anywhere,Unknown,Sometimes,N/A,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,No,N/A,No,No,Bilateral,N/A,Fungal_Skin_Infection
+N/A,Single_to_Few,Large,Feet,Unknown,No,No,N/A,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Yellow_Crusts,Yes,N/A,Yes,Yes,Bilateral,N/A,Buruli_Ulcer
+Lumps,Single_Large,Large,Legs,Follows_Trauma_Rubbing,N/A,Yes,No,Hard_Rough_Warty,N/A,Red,Raised_Edge_Red_Pebbly_Base,N/A,N/A,Yes,No,Bilateral,N/A,Yaws
+Lumps,Single_to_Few,N/A,Feet,Follows_Trauma_Rubbing,Yes,No,N/A,Hard_Rough_Warty,Yes,Reduced_Pigmentation,N/A,Yes,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Onchocerciasis
+Ulcers,Single_Large,Small,Bony_Prominences,Follows_Trauma_Rubbing,No,No,No,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,Yes,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Buruli_Ulcer
+Lumps,Single_Large,N/A,Legs,Slow_from_Lump,Yes,Yes,Yes,Soft_Bumpy,Yes,Increased_Pigmentation,Normal,N/A,Yes,No,No,Unilateral_or_Asymmetrical,N/A,Abscesses
+Lumps,Multiple,N/A,Anywhere,Follows_Trauma_Rubbing,Yes,No,No,Soft_Bumpy,N/A,Red,Yellow_Crusts,N/A,N/A,Yes,No,Bilateral,None,Mycetoma
+Lumps,Multiple,Small,Genitalia,Unknown,N/A,Yes,No,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,Yes,Yes,Yes,Unilateral_or_Asymmetrical,None,Leprosy
+Lumps,Single_Large,Medium,Anywhere,Follows_Trauma_Rubbing,Yes,No,No,Soft_Bumpy,N/A,Red,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Mycetoma
+N/A,Multiple,N/A,Legs,Slow_from_Lump,No,No,N/A,Hard_Rough_Warty,N/A,Reduced_Pigmentation,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Buruli_Ulcer
+Patches,Single_Large,Medium,Feet,Slow_from_Lump,N/A,No,Yes,Firm_Smooth,N/A,Increased_Pigmentation,Yellow_Crusts,No,N/A,No,No,Bilateral,N/A,Fungal_Skin_Infection
+Patches,Single_Large,Small,Anywhere,Follows_Trauma_Rubbing,N/A,Yes,N/A,Soft_Bumpy,Yes,Red,N/A,Yes,N/A,Yes,No,Bilateral,N/A,Onchocerciasis
+Lumps,Single_to_Few,Large,Bony_Prominences,Unknown,Sometimes,Yes,No,Hard_Rough_Warty,Yes,Red,Raised_Edge_Red_Pebbly_Base,N/A,N/A,No,Yes,Bilateral,N/A,Cutaneous_Leishmaniasis
+Swollen Limbs,Multiple,Medium,Anywhere,Follows_Trauma_Rubbing,Sometimes,No,No,Soft_Bumpy,Yes,Reduced_Pigmentation,N/A,No,N/A,Yes,No,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Lumps,Single_to_Few,Small,Feet,Follows_Trauma_Rubbing,N/A,N/A,Yes,Firm_Smooth,N/A,Increased_Pigmentation,Yellow_Crusts,N/A,N/A,No,No,Bilateral,Varicose_Veins,Onchocerciasis
+Swollen Limbs,Single_to_Few,Large,Feet,Slow_from_Lump,Sometimes,N/A,N/A,Firm_Smooth,Yes,Red,Elephantiasis,N/A,N/A,No,Yes,Bilateral,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Lumps,Multiple,N/A,Bony_Prominences,Follows_Trauma_Rubbing,N/A,N/A,N/A,Soft_Bumpy,N/A,Reduced_Pigmentation,Elephantiasis,N/A,N/A,Yes,Yes,Bilateral,N/A,Mycetoma
+Lumps,Multiple,N/A,Legs,Unknown,N/A,No,No,Hard_Rough_Warty,No,Increased_Pigmentation,N/A,N/A,No,Yes,No,Bilateral,N/A,Yaws
+N/A,Single_Large,Small,Bony_Prominences,Follows_Trauma_Rubbing,Sometimes,N/A,N/A,Hard_Rough_Warty,Yes,Increased_Pigmentation,Normal,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Fungal_Skin_Infection
+Ulcers,Multiple,Medium,Anywhere,Unknown,No,N/A,N/A,Soft_Bumpy,N/A,Increased_Pigmentation,Elephantiasis,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Buruli_Ulcer
+Swollen Limbs,Single_Large,Large,Bony_Prominences,Follows_Trauma_Rubbing,Yes,No,No,Firm_Smooth,N/A,Increased_Pigmentation,N/A,No,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Lymphatic_Filariasis
+Swollen Limbs,Multiple,Medium,Genitalia,Slow_from_Lump,Sometimes,No,N/A,Hard_Rough_Warty,Yes,Increased_Pigmentation,Normal,N/A,Yes,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Lymphatic_Filariasis
+Lumps,Single_Large,N/A,Feet,Unknown,N/A,Yes,No,Firm_Smooth,N/A,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,Yes,Yes,Yes,Bilateral,N/A,Yaws
+N/A,Single_to_Few,N/A,Anywhere,Slow_from_Lump,N/A,N/A,N/A,Soft_Bumpy,Yes,Reduced_Pigmentation,Normal,N/A,N/A,Yes,No,Bilateral,None,Leprosy
+Lumps,Single_Large,Large,Legs,Slow_from_Lump,N/A,N/A,Yes,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Mycetoma
+Lumps,Single_to_Few,Large,Anywhere,Slow_from_Lump,No,N/A,Yes,Firm_Smooth,N/A,Increased_Pigmentation,Normal,No,No,Yes,No,Bilateral,N/A,Tungiasis
+N/A,Multiple,Medium,Anywhere,Unknown,N/A,No,N/A,Hard_Rough_Warty,N/A,Red,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Buruli_Ulcer
+Lumps,Single_Large,Medium,Legs,Follows_Trauma_Rubbing,N/A,Yes,N/A,Firm_Smooth,No,Red,Normal,N/A,N/A,No,No,Unilateral_or_Asymmetrical,Varicose_Veins,Onchocerciasis
+Patches,Single_to_Few,N/A,Genitalia,Unknown,Yes,N/A,Yes,Soft_Bumpy,Yes,Red,N/A,N/A,N/A,No,No,Bilateral,N/A,Fungal_Skin_Infection
+Patches,Single_Large,Large,Feet,Slow_from_Lump,N/A,Yes,N/A,Soft_Bumpy,N/A,Red,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,None,Scabies
+Patches,Single_to_Few,N/A,Bony_Prominences,Slow_from_Lump,Yes,Yes,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,Normal,Yes,Yes,Yes,No,Bilateral,None,Leprosy
+Lumps,Multiple,Large,Feet,Unknown,N/A,N/A,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,Elephantiasis,N/A,N/A,No,No,Bilateral,None,Abscesses
+Lumps,Single_to_Few,Medium,Genitalia,Unknown,No,N/A,No,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Yellow_Crusts,Yes,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Leprosy
+Lumps,Single_to_Few,Medium,Bony_Prominences,Unknown,N/A,Yes,N/A,Firm_Smooth,Yes,Red,N/A,N/A,No,Yes,Yes,Bilateral,N/A,Abscesses
+Swollen Limbs,Multiple,N/A,Bony_Prominences,Unknown,No,No,No,Firm_Smooth,N/A,Reduced_Pigmentation,Yellow_Crusts,N/A,Yes,Yes,No,Bilateral,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Lumps,Multiple,Large,Genitalia,Follows_Trauma_Rubbing,N/A,N/A,Yes,Hard_Rough_Warty,N/A,Red,Normal,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Lumps,Multiple,Medium,Legs,Slow_from_Lump,N/A,No,No,Hard_Rough_Warty,Yes,Increased_Pigmentation,N/A,No,N/A,No,Yes,Bilateral,N/A,Abscesses
+Patches,Single_Large,Medium,Legs,Slow_from_Lump,N/A,No,No,Soft_Bumpy,No,Reduced_Pigmentation,N/A,N/A,Yes,Yes,Yes,Bilateral,None,Leprosy
+Ulcers,Single_to_Few,N/A,Anywhere,Unknown,N/A,Yes,N/A,Soft_Bumpy,No,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,Yes,Yes,No,Unilateral_or_Asymmetrical,N/A,Yaws
+Swollen Limbs,Single_to_Few,Large,Legs,Unknown,No,N/A,No,Hard_Rough_Warty,Yes,Increased_Pigmentation,N/A,Yes,N/A,Yes,No,Bilateral,N/A,Podoconiosis
+Lumps,Multiple,N/A,Legs,Follows_Trauma_Rubbing,No,No,No,Soft_Bumpy,N/A,Red,Elephantiasis,N/A,N/A,No,No,Bilateral,None,Mycetoma
+Lumps,Single_to_Few,Medium,Feet,Slow_from_Lump,Sometimes,No,Yes,Firm_Smooth,N/A,Increased_Pigmentation,N/A,No,No,No,Yes,Unilateral_or_Asymmetrical,N/A,Cutaneous_Leishmaniasis
+Patches,Single_to_Few,Large,Genitalia,Follows_Trauma_Rubbing,Yes,No,No,Soft_Bumpy,Yes,Increased_Pigmentation,N/A,N/A,Yes,Yes,No,Unilateral_or_Asymmetrical,N/A,Leprosy
+N/A,Multiple,Large,Anywhere,Follows_Trauma_Rubbing,Sometimes,N/A,No,Hard_Rough_Warty,N/A,Red,Yellow_Crusts,N/A,N/A,No,No,Unilateral_or_Asymmetrical,None,Mycetoma
+Patches,Single_Large,Medium,Bony_Prominences,Unknown,Sometimes,No,N/A,Soft_Bumpy,No,Increased_Pigmentation,Elephantiasis,N/A,No,Yes,No,Unilateral_or_Asymmetrical,N/A,Eczema
+Patches,Single_Large,N/A,Bony_Prominences,Follows_Trauma_Rubbing,Sometimes,Yes,N/A,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,Yes,No,Yes,Unilateral_or_Asymmetrical,N/A,Eczema
+Lumps,Multiple,N/A,Feet,Slow_from_Lump,Yes,Yes,No,Firm_Smooth,N/A,Increased_Pigmentation,N/A,Yes,N/A,No,No,Unilateral_or_Asymmetrical,None,Abscesses
+Lumps,Single_to_Few,N/A,Genitalia,Follows_Trauma_Rubbing,Sometimes,N/A,No,Soft_Bumpy,N/A,Red,Elephantiasis,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Lumps,Single_to_Few,N/A,Legs,Slow_from_Lump,N/A,Yes,N/A,Soft_Bumpy,Yes,Reduced_Pigmentation,Yellow_Crusts,Yes,N/A,Yes,No,Bilateral,None,Mycetoma
+Lumps,Single_Large,Large,Bony_Prominences,Follows_Trauma_Rubbing,N/A,No,No,Hard_Rough_Warty,No,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Cutaneous_Leishmaniasis
+Swollen Limbs,Single_Large,N/A,Anywhere,Slow_from_Lump,Sometimes,N/A,N/A,Soft_Bumpy,N/A,Reduced_Pigmentation,Yellow_Crusts,No,N/A,No,Yes,Bilateral,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Swollen Limbs,Multiple,N/A,Anywhere,Unknown,N/A,Yes,Yes,Firm_Smooth,Yes,Increased_Pigmentation,Elephantiasis,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+N/A,Single_to_Few,N/A,Bony_Prominences,Slow_from_Lump,N/A,Yes,Yes,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,Yes,No,No,Yes,Unilateral_or_Asymmetrical,N/A,Lymphatic_Filariasis
+N/A,Single_Large,Large,Bony_Prominences,Follows_Trauma_Rubbing,No,No,No,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,No,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Buruli_Ulcer
+Ulcers,Multiple,Medium,Bony_Prominences,Unknown,No,No,N/A,Soft_Bumpy,No,Increased_Pigmentation,N/A,No,N/A,Yes,Yes,Bilateral,N/A,Buruli_Ulcer
+Patches,Single_Large,N/A,Legs,Follows_Trauma_Rubbing,N/A,No,N/A,Firm_Smooth,N/A,Red,N/A,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Fungal_Skin_Infection
+Lumps,Multiple,N/A,Feet,Follows_Trauma_Rubbing,Sometimes,N/A,N/A,Firm_Smooth,No,Red,N/A,No,N/A,Yes,Yes,Bilateral,N/A,Tungiasis
+Patches,Multiple,Small,Feet,Slow_from_Lump,Yes,Yes,Yes,Soft_Bumpy,No,Red,N/A,N/A,Yes,Yes,No,Unilateral_or_Asymmetrical,N/A,Fungal_Skin_Infection
+Patches,Multiple,Medium,Anywhere,Slow_from_Lump,N/A,N/A,Yes,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Yellow_Crusts,N/A,No,No,Yes,Unilateral_or_Asymmetrical,N/A,Onchocerciasis
+Lumps,Multiple,N/A,Genitalia,Slow_from_Lump,Sometimes,No,N/A,Hard_Rough_Warty,No,Red,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Leprosy
+Lumps,Single_Large,Small,Genitalia,Follows_Trauma_Rubbing,Sometimes,Yes,N/A,Soft_Bumpy,Yes,Red,Yellow_Crusts,N/A,N/A,No,No,Bilateral,N/A,Onchocerciasis
+Patches,Multiple,Small,Genitalia,Slow_from_Lump,Yes,N/A,Yes,Firm_Smooth,N/A,Increased_Pigmentation,N/A,No,N/A,Yes,Yes,Unilateral_or_Asymmetrical,None,Scabies
+Lumps,Multiple,Medium,Feet,Slow_from_Lump,N/A,N/A,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,Elephantiasis,No,N/A,Yes,Yes,Bilateral,N/A,Onchocerciasis
+Lumps,Single_Large,Small,Anywhere,Follows_Trauma_Rubbing,Yes,Yes,No,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,Yes,Yes,Yes,Yes,Bilateral,None,Cutaneous_Leishmaniasis
+N/A,Single_to_Few,N/A,Legs,Follows_Trauma_Rubbing,Sometimes,Yes,Yes,Hard_Rough_Warty,N/A,Red,Normal,N/A,N/A,Yes,No,Bilateral,N/A,Leprosy
+Lumps,Single_to_Few,Large,Legs,Follows_Trauma_Rubbing,No,N/A,No,Hard_Rough_Warty,N/A,Red,N/A,N/A,N/A,Yes,Yes,Bilateral,None,Cutaneous_Leishmaniasis
+N/A,Single_to_Few,Large,Feet,Unknown,Yes,Yes,Yes,Soft_Bumpy,N/A,Red,Yellow_Crusts,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Abscesses
+Swollen Limbs,Single_to_Few,Small,Anywhere,Unknown,N/A,No,N/A,Firm_Smooth,N/A,Increased_Pigmentation,Elephantiasis,Yes,N/A,Yes,Yes,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Lumps,Single_Large,Large,Legs,Follows_Trauma_Rubbing,No,N/A,No,Hard_Rough_Warty,N/A,Red,Elephantiasis,Yes,N/A,No,Yes,Bilateral,None,Tungiasis
+N/A,Multiple,Medium,Feet,Follows_Trauma_Rubbing,No,Yes,N/A,Soft_Bumpy,No,Reduced_Pigmentation,N/A,N/A,No,Yes,Yes,Unilateral_or_Asymmetrical,None,Yaws
+Patches,Single_to_Few,Small,Anywhere,Slow_from_Lump,Sometimes,No,Yes,Hard_Rough_Warty,No,Red,N/A,No,N/A,Yes,Yes,Bilateral,N/A,Eczema
+Swollen Limbs,Multiple,N/A,Legs,Follows_Trauma_Rubbing,Sometimes,Yes,N/A,Hard_Rough_Warty,No,Reduced_Pigmentation,N/A,N/A,N/A,Yes,Yes,Bilateral,N/A,Lymphatic_Filariasis
+N/A,Multiple,Small,Anywhere,Unknown,No,N/A,No,Firm_Smooth,N/A,Increased_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,No,No,Unilateral_or_Asymmetrical,None,Yaws
+Patches,Single_Large,Small,Genitalia,Unknown,Sometimes,N/A,N/A,Firm_Smooth,N/A,Red,Yellow_Crusts,Yes,No,Yes,No,Unilateral_or_Asymmetrical,N/A,Eczema
+Lumps,Single_to_Few,Small,Legs,Unknown,N/A,Yes,N/A,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,None,Mycetoma
+N/A,Single_Large,N/A,Genitalia,Slow_from_Lump,N/A,No,Yes,Firm_Smooth,No,Red,Yellow_Crusts,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Fungal_Skin_Infection
+N/A,Single_to_Few,Small,Anywhere,Slow_from_Lump,Yes,No,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,Yes,Yes,No,Bilateral,N/A,Eczema
+Patches,Multiple,N/A,Legs,Follows_Trauma_Rubbing,No,No,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,Elephantiasis,Yes,No,No,Yes,Unilateral_or_Asymmetrical,None,Fungal_Skin_Infection
+Patches,Multiple,N/A,Feet,Follows_Trauma_Rubbing,N/A,No,Yes,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,None,Leprosy
+Patches,Single_to_Few,Small,Genitalia,Slow_from_Lump,No,N/A,N/A,Firm_Smooth,Yes,Red,Elephantiasis,N/A,N/A,Yes,No,Bilateral,N/A,Scabies
+Lumps,Single_to_Few,Large,Anywhere,Follows_Trauma_Rubbing,Yes,No,No,Hard_Rough_Warty,Yes,Red,N/A,N/A,N/A,Yes,Yes,Bilateral,N/A,Abscesses
+N/A,Single_Large,N/A,Bony_Prominences,Slow_from_Lump,Yes,Yes,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,Yellow_Crusts,N/A,N/A,Yes,Yes,Bilateral,None,Scabies
+N/A,Single_Large,Medium,Bony_Prominences,Follows_Trauma_Rubbing,No,No,No,Hard_Rough_Warty,Yes,Increased_Pigmentation,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Buruli_Ulcer
+Swollen Limbs,Single_to_Few,Small,Genitalia,Unknown,N/A,N/A,No,Hard_Rough_Warty,N/A,Red,Elephantiasis,No,No,Yes,Yes,Bilateral,N/A,Podoconiosis
+Lumps,Multiple,Large,Anywhere,Unknown,N/A,N/A,No,Hard_Rough_Warty,Yes,Reduced_Pigmentation,N/A,N/A,No,Yes,No,Bilateral,N/A,Mycetoma
+N/A,Single_Large,Medium,Feet,Follows_Trauma_Rubbing,N/A,Yes,Yes,Soft_Bumpy,Yes,Red,N/A,N/A,No,No,Yes,Unilateral_or_Asymmetrical,None,Mycetoma
+Swollen Limbs,Single_Large,Large,Genitalia,Slow_from_Lump,N/A,Yes,No,Soft_Bumpy,Yes,Red,N/A,N/A,No,Yes,Yes,Bilateral,N/A,Podoconiosis
+Lumps,Single_to_Few,Large,Bony_Prominences,Follows_Trauma_Rubbing,N/A,N/A,No,Firm_Smooth,Yes,Reduced_Pigmentation,Normal,N/A,N/A,Yes,Yes,Bilateral,N/A,Abscesses
+Swollen Limbs,Single_Large,Small,Anywhere,Slow_from_Lump,No,N/A,N/A,Firm_Smooth,N/A,Increased_Pigmentation,Yellow_Crusts,N/A,Yes,No,No,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+Lumps,Multiple,N/A,Anywhere,Follows_Trauma_Rubbing,N/A,Yes,Yes,Hard_Rough_Warty,N/A,Reduced_Pigmentation,N/A,N/A,N/A,Yes,Yes,Bilateral,None,Abscesses
+Patches,Single_Large,Large,Feet,Slow_from_Lump,Sometimes,N/A,Yes,Firm_Smooth,No,Reduced_Pigmentation,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Fungal_Skin_Infection
+Lumps,Multiple,Small,Legs,Slow_from_Lump,N/A,No,Yes,Soft_Bumpy,Yes,Reduced_Pigmentation,N/A,No,Yes,Yes,No,Unilateral_or_Asymmetrical,None,Abscesses
+Lumps,Multiple,N/A,Feet,Slow_from_Lump,Yes,N/A,N/A,Hard_Rough_Warty,Yes,Increased_Pigmentation,N/A,No,N/A,Yes,No,Bilateral,None,Abscesses
+N/A,Multiple,Large,Anywhere,Unknown,N/A,No,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,Yes,Yes,Yes,Bilateral,N/A,Cutaneous_Leishmaniasis
+Patches,Single_Large,Small,Bony_Prominences,Slow_from_Lump,N/A,N/A,Yes,Firm_Smooth,Yes,Increased_Pigmentation,Normal,Yes,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Eczema
+Lumps,Multiple,Small,Feet,Follows_Trauma_Rubbing,Yes,N/A,N/A,Soft_Bumpy,No,Reduced_Pigmentation,Normal,N/A,No,No,Yes,Unilateral_or_Asymmetrical,Varicose_Veins,Onchocerciasis
+N/A,Single_Large,N/A,Legs,Slow_from_Lump,N/A,Yes,N/A,Hard_Rough_Warty,No,Reduced_Pigmentation,Yellow_Crusts,N/A,N/A,No,No,Bilateral,N/A,Onchocerciasis
+Lumps,Single_to_Few,Medium,Legs,Follows_Trauma_Rubbing,No,N/A,Yes,Firm_Smooth,N/A,Red,Elephantiasis,N/A,No,No,No,Unilateral_or_Asymmetrical,Varicose_Veins,Onchocerciasis
+Lumps,Single_Large,N/A,Legs,Unknown,No,N/A,N/A,Hard_Rough_Warty,N/A,Red,Elephantiasis,Yes,N/A,Yes,No,Bilateral,None,Leprosy
+N/A,Single_Large,Small,Anywhere,Unknown,N/A,No,Yes,Soft_Bumpy,N/A,Red,N/A,N/A,N/A,Yes,Yes,Bilateral,None,Abscesses
+Ulcers,Single_Large,N/A,Anywhere,Slow_from_Lump,No,N/A,No,Firm_Smooth,No,Increased_Pigmentation,N/A,No,Yes,Yes,No,Unilateral_or_Asymmetrical,N/A,Cutaneous_Leishmaniasis
+N/A,Multiple,Small,Legs,Follows_Trauma_Rubbing,Sometimes,No,N/A,Soft_Bumpy,Yes,Red,Normal,N/A,No,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Patches,Single_to_Few,Large,Bony_Prominences,Slow_from_Lump,No,Yes,N/A,Soft_Bumpy,N/A,Red,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Fungal_Skin_Infection
+Ulcers,Single_Large,N/A,Bony_Prominences,Follows_Trauma_Rubbing,N/A,N/A,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,No,N/A,No,No,Unilateral_or_Asymmetrical,None,Yaws
+Ulcers,Single_to_Few,N/A,Bony_Prominences,Unknown,N/A,No,N/A,Hard_Rough_Warty,N/A,Red,Raised_Edge_Red_Pebbly_Base,N/A,N/A,Yes,Yes,Bilateral,N/A,Cutaneous_Leishmaniasis
+Patches,Single_Large,N/A,Bony_Prominences,Follows_Trauma_Rubbing,N/A,Yes,Yes,Firm_Smooth,Yes,Red,Yellow_Crusts,N/A,N/A,Yes,Yes,Bilateral,None,Eczema
+N/A,Single_to_Few,Medium,Bony_Prominences,Follows_Trauma_Rubbing,Sometimes,Yes,N/A,Firm_Smooth,Yes,Increased_Pigmentation,Normal,No,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Mycetoma
+Lumps,Single_Large,Small,Anywhere,Slow_from_Lump,Yes,No,No,Hard_Rough_Warty,N/A,Red,Elephantiasis,N/A,N/A,No,No,Bilateral,None,Abscesses
+Swollen Limbs,Single_Large,Small,Bony_Prominences,Slow_from_Lump,Sometimes,No,Yes,Hard_Rough_Warty,No,Reduced_Pigmentation,Normal,N/A,N/A,Yes,Yes,Bilateral,N/A,Lymphatic_Filariasis
+Lumps,Single_to_Few,Large,Anywhere,Slow_from_Lump,Yes,No,No,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,N/A,Yes,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Abscesses
+N/A,Single_to_Few,N/A,Feet,Unknown,N/A,No,Yes,Soft_Bumpy,No,Increased_Pigmentation,Yellow_Crusts,N/A,N/A,No,No,Bilateral,None,Scabies
+Lumps,Single_Large,Small,Bony_Prominences,Slow_from_Lump,N/A,Yes,No,Hard_Rough_Warty,Yes,Reduced_Pigmentation,Normal,Yes,N/A,Yes,No,Bilateral,N/A,Abscesses
+Lumps,Single_to_Few,Medium,Feet,Slow_from_Lump,Sometimes,Yes,No,Soft_Bumpy,Yes,Red,Normal,N/A,Yes,Yes,No,Unilateral_or_Asymmetrical,None,Leprosy
+Lumps,Multiple,Large,Legs,Unknown,N/A,Yes,N/A,Firm_Smooth,No,Increased_Pigmentation,N/A,N/A,No,No,No,Unilateral_or_Asymmetrical,None,Cutaneous_Leishmaniasis
+Patches,Multiple,Large,Legs,Unknown,N/A,N/A,Yes,Firm_Smooth,Yes,Red,N/A,No,N/A,Yes,Yes,Bilateral,N/A,Eczema
+Lumps,Single_to_Few,Small,Bony_Prominences,Unknown,Yes,N/A,No,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Normal,N/A,No,Yes,No,Bilateral,N/A,Abscesses
+Lumps,Single_Large,Medium,Anywhere,Slow_from_Lump,Yes,N/A,No,Soft_Bumpy,Yes,Red,Elephantiasis,Yes,N/A,No,No,Bilateral,N/A,Abscesses
+Lumps,Single_to_Few,Large,Genitalia,Unknown,No,No,No,Hard_Rough_Warty,Yes,Increased_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,Yes,Yes,Bilateral,None,Yaws
+Swollen Limbs,Single_to_Few,Medium,Legs,Follows_Trauma_Rubbing,N/A,N/A,N/A,Firm_Smooth,N/A,Increased_Pigmentation,Normal,N/A,Yes,No,Yes,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Patches,Single_Large,Medium,Feet,Slow_from_Lump,Yes,No,Yes,Hard_Rough_Warty,N/A,Reduced_Pigmentation,N/A,Yes,N/A,Yes,Yes,Bilateral,N/A,Leprosy
+Patches,Single_Large,Large,Legs,Unknown,N/A,N/A,Yes,Soft_Bumpy,Yes,Red,Normal,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Eczema
+Patches,Single_to_Few,N/A,Legs,Unknown,Yes,N/A,N/A,Hard_Rough_Warty,No,Reduced_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,N/A,Eczema
+N/A,Single_Large,Small,Anywhere,Slow_from_Lump,Yes,N/A,Yes,Firm_Smooth,Yes,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,None,Fungal_Skin_Infection
+Patches,Multiple,N/A,Bony_Prominences,Follows_Trauma_Rubbing,N/A,N/A,Yes,Firm_Smooth,N/A,Increased_Pigmentation,Elephantiasis,N/A,N/A,No,No,Bilateral,N/A,Scabies
+Lumps,Multiple,Medium,Feet,Slow_from_Lump,Yes,N/A,N/A,Hard_Rough_Warty,N/A,Red,Normal,Yes,N/A,No,No,Unilateral_or_Asymmetrical,None,Abscesses
+Lumps,Single_Large,N/A,Anywhere,Unknown,N/A,Yes,N/A,Soft_Bumpy,N/A,Reduced_Pigmentation,Normal,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Lumps,Single_Large,Small,Legs,Slow_from_Lump,N/A,N/A,No,Firm_Smooth,N/A,Increased_Pigmentation,Normal,Yes,N/A,No,No,Bilateral,None,Abscesses
+N/A,Single_Large,Small,Genitalia,Slow_from_Lump,Yes,No,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Patches,Single_Large,Small,Anywhere,Slow_from_Lump,No,N/A,N/A,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Elephantiasis,N/A,No,Yes,No,Unilateral_or_Asymmetrical,None,Eczema
+Lumps,Multiple,Large,Genitalia,Slow_from_Lump,N/A,Yes,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,Yellow_Crusts,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,Varicose_Veins,Onchocerciasis
+N/A,Multiple,Small,Bony_Prominences,Slow_from_Lump,N/A,No,No,Firm_Smooth,Yes,Reduced_Pigmentation,Normal,No,N/A,Yes,No,Bilateral,N/A,Abscesses
+Patches,Single_Large,N/A,Genitalia,Unknown,Sometimes,Yes,Yes,Soft_Bumpy,N/A,Red,Normal,Yes,N/A,Yes,No,Bilateral,None,Eczema
+Ulcers,Single_Large,Medium,Feet,Unknown,Yes,No,Yes,Firm_Smooth,N/A,Red,Raised_Edge_Red_Pebbly_Base,N/A,N/A,No,No,Bilateral,None,Cutaneous_Leishmaniasis
+Patches,Single_to_Few,Medium,Genitalia,Follows_Trauma_Rubbing,N/A,No,Yes,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Elephantiasis,Yes,N/A,Yes,No,Bilateral,None,Scabies
+Patches,Multiple,Large,Anywhere,Unknown,N/A,N/A,N/A,Firm_Smooth,No,Red,Elephantiasis,No,N/A,No,No,Bilateral,N/A,Eczema
+N/A,Multiple,N/A,Anywhere,Slow_from_Lump,Yes,Yes,N/A,Hard_Rough_Warty,N/A,Red,Elephantiasis,Yes,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Eczema
+Swollen Limbs,Single_to_Few,Large,Bony_Prominences,Slow_from_Lump,No,Yes,N/A,Firm_Smooth,N/A,Red,N/A,Yes,N/A,No,No,Bilateral,N/A,Lymphatic_Filariasis
+N/A,Single_Large,N/A,Legs,Unknown,Sometimes,No,No,Firm_Smooth,Yes,Red,Elephantiasis,N/A,Yes,Yes,Yes,Bilateral,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+N/A,Multiple,Large,Feet,Follows_Trauma_Rubbing,N/A,Yes,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,Yellow_Crusts,N/A,N/A,No,Yes,Bilateral,None,Fungal_Skin_Infection
+Swollen Limbs,Multiple,Large,Anywhere,Slow_from_Lump,N/A,No,No,Hard_Rough_Warty,No,Red,Yellow_Crusts,Yes,Yes,No,No,Unilateral_or_Asymmetrical,N/A,Lymphatic_Filariasis
+Patches,Single_to_Few,Small,Anywhere,Slow_from_Lump,No,N/A,Yes,Firm_Smooth,N/A,Red,Yellow_Crusts,No,No,Yes,Yes,Bilateral,N/A,Fungal_Skin_Infection
+Ulcers,Multiple,N/A,Legs,Unknown,N/A,Yes,No,Firm_Smooth,No,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,Yes,No,Bilateral,N/A,Yaws
+Ulcers,Single_Large,Medium,Feet,Slow_from_Lump,N/A,No,N/A,Hard_Rough_Warty,Yes,Red,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Buruli_Ulcer
+Patches,Single_Large,Small,Feet,Follows_Trauma_Rubbing,N/A,N/A,N/A,Soft_Bumpy,No,Increased_Pigmentation,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Onchocerciasis
+Lumps,Single_to_Few,N/A,Anywhere,Unknown,Sometimes,Yes,No,Hard_Rough_Warty,Yes,Red,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Swollen Limbs,Single_to_Few,Large,Bony_Prominences,Slow_from_Lump,Yes,N/A,No,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,No,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Lymphatic_Filariasis
+Lumps,Single_to_Few,Small,Legs,Slow_from_Lump,Yes,No,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,Elephantiasis,Yes,Yes,No,Yes,Bilateral,N/A,Onchocerciasis
+Lumps,Multiple,Small,Bony_Prominences,Follows_Trauma_Rubbing,No,N/A,No,Hard_Rough_Warty,Yes,Increased_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,Yes,No,Yes,Bilateral,N/A,Yaws
+Patches,Single_to_Few,Medium,Bony_Prominences,Follows_Trauma_Rubbing,Sometimes,No,N/A,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Fungal_Skin_Infection
+N/A,Multiple,N/A,Feet,Unknown,No,Yes,N/A,Firm_Smooth,Yes,Red,N/A,No,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Lumps,Single_Large,Medium,Legs,Follows_Trauma_Rubbing,N/A,No,Yes,Hard_Rough_Warty,No,Reduced_Pigmentation,Normal,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Leprosy
+Swollen Limbs,Multiple,Large,Anywhere,Follows_Trauma_Rubbing,N/A,Yes,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,No,N/A,No,Yes,Bilateral,N/A,Podoconiosis
+Ulcers,Multiple,Small,Legs,Follows_Trauma_Rubbing,No,No,Yes,Hard_Rough_Warty,Yes,Reduced_Pigmentation,N/A,N/A,Yes,No,Yes,Bilateral,None,Buruli_Ulcer
+Swollen Limbs,Single_to_Few,Small,Genitalia,Follows_Trauma_Rubbing,Sometimes,No,No,Soft_Bumpy,Yes,Reduced_Pigmentation,Elephantiasis,N/A,N/A,No,Yes,Bilateral,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Ulcers,Single_Large,Small,Feet,Unknown,No,N/A,N/A,Soft_Bumpy,Yes,Reduced_Pigmentation,Yellow_Crusts,Yes,No,No,Yes,Unilateral_or_Asymmetrical,None,Buruli_Ulcer
+Lumps,Single_to_Few,Large,Feet,Follows_Trauma_Rubbing,N/A,No,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,Raised_Edge_Red_Pebbly_Base,No,No,Yes,No,Bilateral,N/A,Cutaneous_Leishmaniasis
+Swollen Limbs,Single_Large,N/A,Bony_Prominences,Unknown,Yes,N/A,No,Firm_Smooth,N/A,Red,Elephantiasis,No,No,Yes,No,Bilateral,N/A,Lymphatic_Filariasis
+N/A,Multiple,Medium,Legs,Follows_Trauma_Rubbing,N/A,N/A,No,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Yaws
+Lumps,Single_to_Few,Medium,Bony_Prominences,Unknown,N/A,Yes,Yes,Firm_Smooth,N/A,Red,N/A,N/A,Yes,Yes,Yes,Bilateral,N/A,Mycetoma
+Lumps,Multiple,N/A,Genitalia,Follows_Trauma_Rubbing,N/A,N/A,N/A,Hard_Rough_Warty,Yes,Red,Yellow_Crusts,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Leprosy
+Lumps,Single_to_Few,N/A,Genitalia,Slow_from_Lump,N/A,Yes,Yes,Soft_Bumpy,Yes,Reduced_Pigmentation,N/A,Yes,N/A,Yes,Yes,Bilateral,N/A,Mycetoma
+Lumps,Single_to_Few,N/A,Anywhere,Slow_from_Lump,N/A,N/A,N/A,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,Yes,Bilateral,N/A,Tungiasis
+N/A,Single_to_Few,N/A,Feet,Unknown,No,No,No,Firm_Smooth,No,Reduced_Pigmentation,N/A,Yes,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Yaws
+Patches,Single_to_Few,Medium,Anywhere,Unknown,N/A,N/A,N/A,Soft_Bumpy,Yes,Increased_Pigmentation,N/A,No,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Scabies
+Lumps,Single_Large,Medium,Legs,Slow_from_Lump,No,No,N/A,Firm_Smooth,Yes,Red,N/A,N/A,No,Yes,No,Bilateral,N/A,Yaws
+N/A,Single_Large,N/A,Legs,Slow_from_Lump,No,No,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Ulcers,Single_Large,Large,Genitalia,Slow_from_Lump,Sometimes,N/A,No,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,No,No,Yes,Unilateral_or_Asymmetrical,N/A,Yaws
+Lumps,Single_to_Few,N/A,Bony_Prominences,Slow_from_Lump,Yes,No,No,Hard_Rough_Warty,Yes,Increased_Pigmentation,Normal,N/A,N/A,Yes,No,Bilateral,N/A,Mycetoma
+Lumps,Single_to_Few,N/A,Bony_Prominences,Unknown,N/A,Yes,N/A,Soft_Bumpy,N/A,Red,Yellow_Crusts,N/A,N/A,Yes,No,Bilateral,None,Mycetoma
+N/A,Single_to_Few,Small,Legs,Unknown,Yes,No,N/A,Soft_Bumpy,N/A,Reduced_Pigmentation,Normal,N/A,Yes,Yes,No,Bilateral,N/A,Lymphatic_Filariasis
+N/A,Single_to_Few,Medium,Anywhere,Slow_from_Lump,N/A,N/A,No,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,No,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Lumps,Single_to_Few,Medium,Genitalia,Slow_from_Lump,No,N/A,N/A,Hard_Rough_Warty,N/A,Red,N/A,N/A,N/A,No,Yes,Bilateral,N/A,Mycetoma
+N/A,Multiple,N/A,Genitalia,Slow_from_Lump,Yes,Yes,N/A,Soft_Bumpy,Yes,Reduced_Pigmentation,N/A,No,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Tungiasis
+N/A,Single_Large,Medium,Legs,Unknown,No,N/A,Yes,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,Yes,Bilateral,Varicose_Veins,Onchocerciasis
+N/A,Multiple,Medium,Legs,Follows_Trauma_Rubbing,Yes,N/A,N/A,Firm_Smooth,Yes,Red,Normal,N/A,No,No,No,Unilateral_or_Asymmetrical,N/A,Abscesses
+Patches,Single_to_Few,Small,Genitalia,Unknown,N/A,Yes,Yes,Hard_Rough_Warty,No,Red,Elephantiasis,No,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Eczema
+N/A,Single_to_Few,N/A,Bony_Prominences,Slow_from_Lump,Yes,No,N/A,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Yellow_Crusts,No,N/A,No,Yes,Bilateral,N/A,Abscesses
+Lumps,Single_to_Few,N/A,Feet,Follows_Trauma_Rubbing,Yes,No,N/A,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Mycetoma
+Patches,Single_Large,Medium,Anywhere,Follows_Trauma_Rubbing,Yes,N/A,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,Yes,N/A,No,Yes,Bilateral,None,Scabies
+Lumps,Single_to_Few,Small,Bony_Prominences,Follows_Trauma_Rubbing,Sometimes,N/A,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,N/A,Tungiasis
+Lumps,Multiple,Large,Anywhere,Unknown,N/A,Yes,No,Soft_Bumpy,N/A,Red,Normal,N/A,No,Yes,No,Unilateral_or_Asymmetrical,None,Tungiasis
+Lumps,Multiple,N/A,Anywhere,Unknown,Yes,Yes,No,Firm_Smooth,Yes,Red,Normal,No,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Abscesses
+N/A,Single_Large,N/A,Bony_Prominences,Slow_from_Lump,No,No,Yes,Soft_Bumpy,Yes,Increased_Pigmentation,Normal,No,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Scabies
+Patches,Single_Large,Small,Legs,Unknown,N/A,N/A,N/A,Firm_Smooth,Yes,Increased_Pigmentation,N/A,No,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Fungal_Skin_Infection
+Swollen Limbs,Multiple,N/A,Bony_Prominences,Unknown,No,N/A,N/A,Firm_Smooth,No,Increased_Pigmentation,N/A,No,N/A,Yes,No,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Lumps,Multiple,Medium,Bony_Prominences,Follows_Trauma_Rubbing,No,Yes,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,Yellow_Crusts,Yes,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Leprosy
+N/A,Single_to_Few,N/A,Anywhere,Follows_Trauma_Rubbing,No,N/A,No,Soft_Bumpy,N/A,Red,Elephantiasis,No,N/A,Yes,No,Bilateral,N/A,Podoconiosis
+Lumps,Single_to_Few,Large,Anywhere,Follows_Trauma_Rubbing,N/A,N/A,N/A,Soft_Bumpy,No,Reduced_Pigmentation,N/A,N/A,Yes,No,Yes,Bilateral,N/A,Leprosy
+Patches,Single_Large,Medium,Bony_Prominences,Follows_Trauma_Rubbing,N/A,N/A,Yes,Hard_Rough_Warty,Yes,Red,Normal,No,N/A,No,No,Unilateral_or_Asymmetrical,None,Scabies
+N/A,Single_Large,Medium,Bony_Prominences,Unknown,No,Yes,No,Soft_Bumpy,N/A,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,No,No,Bilateral,None,Yaws
+Lumps,Multiple,Large,Feet,Follows_Trauma_Rubbing,N/A,No,Yes,Hard_Rough_Warty,No,Red,Raised_Edge_Red_Pebbly_Base,Yes,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Cutaneous_Leishmaniasis
+Patches,Single_to_Few,Small,Feet,Unknown,Yes,N/A,N/A,Hard_Rough_Warty,No,Reduced_Pigmentation,Normal,N/A,N/A,Yes,Yes,Bilateral,N/A,Eczema
+Patches,Multiple,Large,Anywhere,Slow_from_Lump,N/A,N/A,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,Yes,N/A,Yes,No,Bilateral,N/A,Eczema
+Lumps,Single_to_Few,N/A,Legs,Slow_from_Lump,Yes,N/A,No,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,N/A,N/A,Yes,Yes,Bilateral,None,Abscesses
+Patches,Single_Large,Medium,Bony_Prominences,Slow_from_Lump,N/A,Yes,Yes,Firm_Smooth,N/A,Increased_Pigmentation,Normal,N/A,Yes,No,Yes,Bilateral,N/A,Scabies
+Swollen Limbs,Single_to_Few,N/A,Bony_Prominences,Unknown,Yes,No,Yes,Firm_Smooth,N/A,Red,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+Patches,Multiple,Medium,Bony_Prominences,Slow_from_Lump,Sometimes,N/A,N/A,Soft_Bumpy,N/A,Red,Yellow_Crusts,N/A,N/A,No,No,Bilateral,N/A,Leprosy
+Ulcers,Single_Large,N/A,Anywhere,Slow_from_Lump,N/A,N/A,Yes,Hard_Rough_Warty,Yes,Increased_Pigmentation,N/A,No,Yes,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Buruli_Ulcer
+N/A,Single_Large,Medium,Anywhere,Unknown,N/A,Yes,Yes,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Yellow_Crusts,N/A,No,No,Yes,Bilateral,None,Eczema
+Ulcers,Single_Large,Medium,Legs,Slow_from_Lump,No,Yes,N/A,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,Yes,N/A,Yes,Yes,Bilateral,N/A,Yaws
+N/A,Single_to_Few,N/A,Bony_Prominences,Follows_Trauma_Rubbing,No,No,Yes,Soft_Bumpy,Yes,Increased_Pigmentation,Elephantiasis,Yes,Yes,No,Yes,Unilateral_or_Asymmetrical,N/A,Scabies
+Lumps,Single_to_Few,Large,Bony_Prominences,Slow_from_Lump,N/A,N/A,N/A,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,No,N/A,Yes,No,Bilateral,None,Tungiasis
+N/A,Single_to_Few,Large,Anywhere,Unknown,Sometimes,N/A,N/A,Soft_Bumpy,Yes,Red,N/A,N/A,N/A,No,No,Bilateral,N/A,Fungal_Skin_Infection
+N/A,Multiple,N/A,Legs,Slow_from_Lump,Yes,N/A,Yes,Soft_Bumpy,Yes,Increased_Pigmentation,N/A,No,No,Yes,No,Bilateral,N/A,Fungal_Skin_Infection
+Patches,Single_Large,N/A,Feet,Unknown,Sometimes,Yes,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,Yes,N/A,No,Yes,Bilateral,N/A,Fungal_Skin_Infection
+Patches,Single_Large,Small,Genitalia,Follows_Trauma_Rubbing,Sometimes,N/A,Yes,Soft_Bumpy,N/A,Red,N/A,N/A,N/A,Yes,Yes,Bilateral,Varicose_Veins,Onchocerciasis
+Swollen Limbs,Single_to_Few,Small,Genitalia,Follows_Trauma_Rubbing,Sometimes,Yes,No,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,Yes,Bilateral,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Patches,Single_to_Few,Medium,Genitalia,Slow_from_Lump,N/A,Yes,Yes,Firm_Smooth,Yes,Reduced_Pigmentation,Elephantiasis,N/A,Yes,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Leprosy
+Swollen Limbs,Single_Large,Large,Genitalia,Follows_Trauma_Rubbing,Sometimes,No,Yes,Firm_Smooth,No,Red,Elephantiasis,N/A,No,No,No,Unilateral_or_Asymmetrical,N/A,Lymphatic_Filariasis
+Lumps,Single_to_Few,Medium,Legs,Slow_from_Lump,Yes,N/A,No,Firm_Smooth,Yes,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Leprosy
+Patches,Single_to_Few,N/A,Anywhere,Slow_from_Lump,N/A,N/A,No,Hard_Rough_Warty,N/A,Reduced_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Leprosy
+Patches,Single_to_Few,Small,Genitalia,Slow_from_Lump,Yes,Yes,Yes,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Yellow_Crusts,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Fungal_Skin_Infection
+Swollen Limbs,Single_Large,Large,Anywhere,Slow_from_Lump,N/A,No,No,Firm_Smooth,No,Increased_Pigmentation,Normal,N/A,N/A,No,No,Bilateral,Long_Standing_Lymphoedema,Podoconiosis
+N/A,Single_to_Few,Small,Legs,Slow_from_Lump,Sometimes,N/A,Yes,Soft_Bumpy,No,Reduced_Pigmentation,Elephantiasis,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Fungal_Skin_Infection
+Ulcers,Multiple,Large,Anywhere,Unknown,N/A,Yes,No,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Cutaneous_Leishmaniasis
+N/A,Single_to_Few,Large,Bony_Prominences,Follows_Trauma_Rubbing,No,N/A,Yes,Firm_Smooth,N/A,Increased_Pigmentation,Elephantiasis,Yes,No,Yes,No,Unilateral_or_Asymmetrical,None,Tungiasis
+Patches,Single_to_Few,Large,Genitalia,Unknown,N/A,Yes,N/A,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,None,Scabies
+Lumps,Multiple,N/A,Anywhere,Follows_Trauma_Rubbing,N/A,Yes,Yes,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Leprosy
+N/A,Single_to_Few,N/A,Genitalia,Follows_Trauma_Rubbing,N/A,No,N/A,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Elephantiasis,Yes,Yes,Yes,No,Unilateral_or_Asymmetrical,Varicose_Veins,Onchocerciasis
+Patches,Single_to_Few,Small,Anywhere,Follows_Trauma_Rubbing,Yes,Yes,Yes,Soft_Bumpy,Yes,Red,N/A,N/A,Yes,Yes,No,Unilateral_or_Asymmetrical,None,Scabies
+Swollen Limbs,Single_Large,Medium,Bony_Prominences,Unknown,Sometimes,N/A,Yes,Firm_Smooth,Yes,Increased_Pigmentation,Yellow_Crusts,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+Patches,Multiple,N/A,Legs,Unknown,Yes,N/A,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,N/A,N/A,Yes,Yes,Bilateral,N/A,Onchocerciasis
+Patches,Single_Large,N/A,Legs,Unknown,No,Yes,N/A,Firm_Smooth,N/A,Reduced_Pigmentation,Normal,N/A,No,Yes,Yes,Unilateral_or_Asymmetrical,None,Scabies
+N/A,Single_to_Few,Small,Genitalia,Slow_from_Lump,Sometimes,N/A,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,N/A,Fungal_Skin_Infection
+N/A,Single_Large,Large,Legs,Follows_Trauma_Rubbing,No,Yes,N/A,Soft_Bumpy,Yes,Red,Yellow_Crusts,N/A,N/A,No,Yes,Bilateral,N/A,Scabies
+Patches,Multiple,Medium,Genitalia,Unknown,Sometimes,No,N/A,Hard_Rough_Warty,N/A,Red,N/A,N/A,No,No,No,Bilateral,N/A,Onchocerciasis
+Lumps,Single_Large,Medium,Anywhere,Follows_Trauma_Rubbing,Sometimes,Yes,No,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Yaws
+Patches,Multiple,Large,Feet,Slow_from_Lump,Yes,N/A,Yes,Hard_Rough_Warty,Yes,Reduced_Pigmentation,Elephantiasis,N/A,Yes,Yes,Yes,Bilateral,N/A,Scabies
+Patches,Single_to_Few,Large,Legs,Slow_from_Lump,Yes,No,Yes,Firm_Smooth,No,Increased_Pigmentation,Elephantiasis,No,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Fungal_Skin_Infection
+Ulcers,Single_to_Few,Large,Genitalia,Follows_Trauma_Rubbing,No,N/A,No,Firm_Smooth,No,Red,N/A,N/A,N/A,Yes,No,Bilateral,None,Buruli_Ulcer
+Patches,Single_Large,Large,Bony_Prominences,Follows_Trauma_Rubbing,Sometimes,No,Yes,Hard_Rough_Warty,N/A,Red,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Scabies
+N/A,Multiple,N/A,Bony_Prominences,Unknown,N/A,No,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,N/A,N/A,Yes,Yes,Bilateral,None,Fungal_Skin_Infection
+Lumps,Multiple,Medium,Feet,Slow_from_Lump,Yes,N/A,No,Hard_Rough_Warty,N/A,Reduced_Pigmentation,N/A,Yes,Yes,No,No,Unilateral_or_Asymmetrical,N/A,Abscesses
+N/A,Multiple,Small,Feet,Slow_from_Lump,Sometimes,N/A,N/A,Firm_Smooth,N/A,Increased_Pigmentation,N/A,Yes,Yes,No,No,Unilateral_or_Asymmetrical,None,Yaws
+N/A,Multiple,N/A,Legs,Follows_Trauma_Rubbing,Yes,No,Yes,Hard_Rough_Warty,No,Increased_Pigmentation,N/A,No,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Eczema
+Ulcers,Single_Large,Small,Legs,Follows_Trauma_Rubbing,No,N/A,N/A,Hard_Rough_Warty,Yes,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Cutaneous_Leishmaniasis
+Lumps,Single_to_Few,Large,Feet,Follows_Trauma_Rubbing,No,N/A,No,Soft_Bumpy,N/A,Increased_Pigmentation,Yellow_Crusts,No,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Patches,Multiple,Medium,Genitalia,Follows_Trauma_Rubbing,Yes,Yes,N/A,Hard_Rough_Warty,No,Reduced_Pigmentation,Normal,Yes,N/A,No,No,Unilateral_or_Asymmetrical,None,Eczema
+Lumps,Single_Large,Medium,Feet,Slow_from_Lump,N/A,N/A,N/A,Soft_Bumpy,N/A,Red,Yellow_Crusts,Yes,N/A,Yes,Yes,Bilateral,None,Leprosy
+Lumps,Multiple,N/A,Feet,Slow_from_Lump,N/A,No,No,Firm_Smooth,Yes,Increased_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,Yes,No,Yes,Unilateral_or_Asymmetrical,None,Yaws
+Ulcers,Multiple,N/A,Feet,Slow_from_Lump,No,N/A,Yes,Hard_Rough_Warty,No,Increased_Pigmentation,N/A,Yes,Yes,No,No,Unilateral_or_Asymmetrical,None,Buruli_Ulcer
+N/A,Single_Large,Large,Legs,Unknown,Yes,No,N/A,Firm_Smooth,No,Increased_Pigmentation,N/A,Yes,N/A,Yes,No,Bilateral,N/A,Cutaneous_Leishmaniasis
+Patches,Single_Large,Large,Bony_Prominences,Follows_Trauma_Rubbing,Yes,No,N/A,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,N/A,Yes,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Scabies
+Lumps,Single_to_Few,N/A,Feet,Follows_Trauma_Rubbing,Sometimes,No,Yes,Soft_Bumpy,Yes,Reduced_Pigmentation,Yellow_Crusts,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Leprosy
+Patches,Single_Large,Small,Genitalia,Slow_from_Lump,Sometimes,No,Yes,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,N/A,N/A,No,Yes,Bilateral,N/A,Onchocerciasis
+Lumps,Multiple,Medium,Legs,Slow_from_Lump,N/A,Yes,N/A,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Elephantiasis,No,Yes,Yes,No,Bilateral,None,Abscesses
+Patches,Single_Large,Large,Bony_Prominences,Slow_from_Lump,Yes,N/A,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,Normal,N/A,N/A,No,Yes,Bilateral,N/A,Onchocerciasis
+Patches,Multiple,Medium,Legs,Follows_Trauma_Rubbing,Sometimes,No,Yes,Firm_Smooth,Yes,Increased_Pigmentation,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Onchocerciasis
+Swollen Limbs,Multiple,Small,Anywhere,Unknown,N/A,N/A,Yes,Hard_Rough_Warty,No,Red,N/A,N/A,No,No,No,Bilateral,N/A,Lymphatic_Filariasis
+Lumps,Multiple,Medium,Legs,Slow_from_Lump,Sometimes,Yes,Yes,Soft_Bumpy,Yes,Red,N/A,N/A,N/A,No,No,Bilateral,N/A,Tungiasis
+Patches,Single_to_Few,Medium,Legs,Slow_from_Lump,Yes,N/A,Yes,Soft_Bumpy,Yes,Increased_Pigmentation,Normal,N/A,N/A,Yes,No,Bilateral,None,Fungal_Skin_Infection
+Ulcers,Single_Large,N/A,Anywhere,Follows_Trauma_Rubbing,Sometimes,Yes,No,Soft_Bumpy,Yes,Increased_Pigmentation,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Yaws
+Lumps,Single_to_Few,Small,Bony_Prominences,Slow_from_Lump,No,No,N/A,Firm_Smooth,N/A,Red,Normal,No,No,Yes,No,Bilateral,N/A,Tungiasis
+Swollen Limbs,Single_Large,N/A,Legs,Follows_Trauma_Rubbing,N/A,No,N/A,Hard_Rough_Warty,N/A,Reduced_Pigmentation,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Lymphatic_Filariasis
+Patches,Single_Large,N/A,Feet,Follows_Trauma_Rubbing,N/A,Yes,Yes,Soft_Bumpy,No,Reduced_Pigmentation,N/A,Yes,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Leprosy
+Patches,Multiple,Large,Genitalia,Slow_from_Lump,N/A,Yes,N/A,Hard_Rough_Warty,N/A,Red,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Onchocerciasis
+Swollen Limbs,Single_Large,Small,Bony_Prominences,Slow_from_Lump,Yes,N/A,N/A,Soft_Bumpy,N/A,Increased_Pigmentation,Normal,N/A,N/A,Yes,No,Bilateral,N/A,Podoconiosis
+N/A,Multiple,N/A,Feet,Slow_from_Lump,N/A,No,Yes,Firm_Smooth,No,Reduced_Pigmentation,N/A,No,N/A,Yes,No,Bilateral,N/A,Onchocerciasis
+N/A,Single_Large,Large,Feet,Follows_Trauma_Rubbing,Yes,N/A,Yes,Soft_Bumpy,No,Red,Elephantiasis,N/A,N/A,Yes,Yes,Bilateral,N/A,Tungiasis
+Lumps,Single_Large,Large,Genitalia,Slow_from_Lump,N/A,N/A,N/A,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,N/A,Abscesses
+Lumps,Multiple,Medium,Bony_Prominences,Unknown,Yes,No,Yes,Soft_Bumpy,No,Red,N/A,No,N/A,Yes,Yes,Bilateral,None,Cutaneous_Leishmaniasis
+Lumps,Multiple,Large,Bony_Prominences,Unknown,No,N/A,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,No,No,Yes,Bilateral,N/A,Onchocerciasis
+Ulcers,Multiple,N/A,Feet,Slow_from_Lump,N/A,N/A,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,Yellow_Crusts,No,N/A,No,No,Bilateral,N/A,Buruli_Ulcer
+Lumps,Single_Large,N/A,Legs,Slow_from_Lump,No,N/A,Yes,Hard_Rough_Warty,No,Red,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Tungiasis
+Ulcers,Multiple,Large,Genitalia,Follows_Trauma_Rubbing,No,N/A,No,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,No,No,Yes,Yes,Bilateral,N/A,Yaws
+Lumps,Multiple,N/A,Bony_Prominences,Slow_from_Lump,N/A,No,N/A,Hard_Rough_Warty,No,Red,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Cutaneous_Leishmaniasis
+N/A,Single_Large,Large,Feet,Slow_from_Lump,N/A,No,Yes,Hard_Rough_Warty,N/A,Red,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Abscesses
+Ulcers,Single_to_Few,N/A,Feet,Unknown,N/A,Yes,No,Firm_Smooth,No,Red,N/A,No,Yes,Yes,No,Unilateral_or_Asymmetrical,None,Yaws
+Lumps,Single_Large,Medium,Feet,Unknown,N/A,Yes,Yes,Firm_Smooth,No,Reduced_Pigmentation,Yellow_Crusts,Yes,N/A,Yes,No,Bilateral,N/A,Leprosy
+Lumps,Single_Large,N/A,Feet,Follows_Trauma_Rubbing,Sometimes,Yes,Yes,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,No,N/A,Yes,Yes,Bilateral,N/A,Cutaneous_Leishmaniasis
+Lumps,Single_Large,N/A,Feet,Slow_from_Lump,N/A,N/A,N/A,Hard_Rough_Warty,N/A,Red,Elephantiasis,Yes,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Leprosy
+Swollen Limbs,Single_Large,Small,Genitalia,Slow_from_Lump,Yes,N/A,N/A,Firm_Smooth,N/A,Red,N/A,N/A,N/A,No,No,Bilateral,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Lumps,Single_to_Few,Medium,Feet,Unknown,Yes,N/A,No,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,N/A,No,Yes,Bilateral,N/A,Mycetoma
+N/A,Multiple,N/A,Legs,Unknown,N/A,No,N/A,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,N/A,No,Yes,Yes,Bilateral,N/A,Scabies
+Ulcers,Single_to_Few,Medium,Anywhere,Slow_from_Lump,N/A,No,No,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,Yes,Yes,Yes,Bilateral,N/A,Yaws
+N/A,Single_Large,Large,Legs,Unknown,No,N/A,N/A,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,None,Buruli_Ulcer
+Lumps,Single_Large,Medium,Feet,Follows_Trauma_Rubbing,N/A,No,Yes,Firm_Smooth,Yes,Increased_Pigmentation,Normal,N/A,Yes,Yes,Yes,Bilateral,None,Tungiasis
+Ulcers,Single_Large,Large,Genitalia,Slow_from_Lump,No,N/A,N/A,Firm_Smooth,N/A,Red,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Yaws
+Ulcers,Single_to_Few,Small,Anywhere,Slow_from_Lump,Sometimes,Yes,No,Firm_Smooth,No,Red,N/A,N/A,N/A,No,No,Bilateral,N/A,Yaws
+Swollen Limbs,Single_Large,Small,Anywhere,Unknown,Yes,Yes,Yes,Hard_Rough_Warty,N/A,Red,N/A,No,N/A,No,No,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Podoconiosis
+Lumps,Single_Large,Large,Genitalia,Unknown,N/A,N/A,No,Hard_Rough_Warty,No,Red,N/A,N/A,Yes,Yes,No,Bilateral,None,Yaws
+N/A,Single_to_Few,Large,Legs,Unknown,Yes,No,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,Elephantiasis,No,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Abscesses
+Lumps,Multiple,Medium,Legs,Follows_Trauma_Rubbing,N/A,N/A,No,Soft_Bumpy,Yes,Reduced_Pigmentation,Elephantiasis,Yes,No,Yes,No,Unilateral_or_Asymmetrical,N/A,Abscesses
+Ulcers,Single_to_Few,Large,Legs,Follows_Trauma_Rubbing,N/A,No,No,Soft_Bumpy,Yes,Reduced_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,None,Buruli_Ulcer
+Lumps,Single_Large,Small,Feet,Slow_from_Lump,N/A,Yes,No,Hard_Rough_Warty,Yes,Increased_Pigmentation,Yellow_Crusts,N/A,N/A,No,Yes,Bilateral,None,Abscesses
+N/A,Single_Large,N/A,Legs,Unknown,No,N/A,N/A,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,Yes,Yes,No,No,Bilateral,None,Leprosy
+N/A,Single_Large,Small,Legs,Slow_from_Lump,N/A,Yes,No,Firm_Smooth,N/A,Increased_Pigmentation,Elephantiasis,Yes,Yes,No,No,Bilateral,None,Abscesses
+Lumps,Multiple,N/A,Anywhere,Follows_Trauma_Rubbing,No,No,No,Soft_Bumpy,Yes,Reduced_Pigmentation,N/A,Yes,N/A,Yes,Yes,Unilateral_or_Asymmetrical,None,Tungiasis
+Swollen Limbs,Single_Large,Large,Genitalia,Follows_Trauma_Rubbing,N/A,N/A,N/A,Soft_Bumpy,N/A,Red,N/A,N/A,N/A,No,Yes,Bilateral,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+N/A,Multiple,Small,Anywhere,Unknown,Yes,N/A,Yes,Firm_Smooth,No,Increased_Pigmentation,N/A,Yes,N/A,Yes,No,Bilateral,None,Eczema
+Swollen Limbs,Single_Large,Medium,Genitalia,Unknown,Sometimes,N/A,No,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,N/A,Yes,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Lymphatic_Filariasis
+Lumps,Multiple,Medium,Anywhere,Slow_from_Lump,Yes,No,No,Hard_Rough_Warty,N/A,Red,Normal,N/A,No,Yes,Yes,Unilateral_or_Asymmetrical,None,Mycetoma
+Lumps,Single_Large,Small,Anywhere,Slow_from_Lump,Yes,No,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,Yes,Yes,No,No,Bilateral,None,Cutaneous_Leishmaniasis
+Swollen Limbs,Multiple,Medium,Feet,Slow_from_Lump,No,N/A,No,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Yellow_Crusts,N/A,No,No,No,Bilateral,N/A,Podoconiosis
+N/A,Multiple,Medium,Legs,Unknown,N/A,Yes,N/A,Soft_Bumpy,Yes,Red,N/A,No,N/A,Yes,Yes,Bilateral,N/A,Eczema
+Patches,Single_to_Few,Small,Bony_Prominences,Follows_Trauma_Rubbing,Yes,Yes,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,Elephantiasis,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Eczema
+Lumps,Multiple,N/A,Feet,Slow_from_Lump,Yes,N/A,No,Firm_Smooth,N/A,Red,N/A,N/A,Yes,No,Yes,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Ulcers,Multiple,Large,Legs,Slow_from_Lump,N/A,N/A,No,Hard_Rough_Warty,Yes,Reduced_Pigmentation,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Yaws
+N/A,Single_to_Few,Small,Feet,Follows_Trauma_Rubbing,Yes,Yes,N/A,Soft_Bumpy,Yes,Increased_Pigmentation,Yellow_Crusts,Yes,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Mycetoma
+N/A,Single_to_Few,Medium,Legs,Slow_from_Lump,Yes,No,Yes,Firm_Smooth,No,Increased_Pigmentation,N/A,Yes,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Scabies
+Swollen Limbs,Single_Large,Medium,Genitalia,Slow_from_Lump,N/A,N/A,No,Soft_Bumpy,No,Reduced_Pigmentation,N/A,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+Patches,Single_to_Few,Small,Feet,Slow_from_Lump,No,No,Yes,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Onchocerciasis
+Patches,Single_Large,Large,Feet,Slow_from_Lump,N/A,Yes,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,No,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Eczema
+N/A,Single_to_Few,Medium,Legs,Slow_from_Lump,Sometimes,Yes,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,Yellow_Crusts,Yes,N/A,No,No,Bilateral,N/A,Onchocerciasis
+Ulcers,Single_to_Few,Large,Anywhere,Follows_Trauma_Rubbing,No,No,N/A,Firm_Smooth,No,Reduced_Pigmentation,N/A,N/A,N/A,Yes,Yes,Bilateral,None,Buruli_Ulcer
+Lumps,Single_to_Few,Large,Legs,Unknown,Yes,N/A,No,Firm_Smooth,No,Reduced_Pigmentation,N/A,No,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Lumps,Single_to_Few,N/A,Genitalia,Unknown,Sometimes,No,N/A,Hard_Rough_Warty,No,Increased_Pigmentation,Elephantiasis,No,N/A,Yes,Yes,Bilateral,N/A,Onchocerciasis
+Lumps,Single_Large,Medium,Feet,Slow_from_Lump,N/A,N/A,N/A,Firm_Smooth,N/A,Red,N/A,No,No,No,No,Bilateral,N/A,Abscesses
+Patches,Single_to_Few,Large,Legs,Follows_Trauma_Rubbing,N/A,N/A,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,Yellow_Crusts,N/A,N/A,No,No,Bilateral,None,Fungal_Skin_Infection
+Patches,Multiple,Medium,Bony_Prominences,Slow_from_Lump,Yes,Yes,N/A,Soft_Bumpy,No,Reduced_Pigmentation,N/A,N/A,N/A,Yes,Yes,Bilateral,None,Leprosy
+Ulcers,Single_Large,Medium,Anywhere,Follows_Trauma_Rubbing,N/A,Yes,Yes,Hard_Rough_Warty,N/A,Red,Raised_Edge_Red_Pebbly_Base,No,N/A,No,No,Bilateral,None,Cutaneous_Leishmaniasis
+N/A,Multiple,N/A,Anywhere,Unknown,No,N/A,N/A,Soft_Bumpy,Yes,Increased_Pigmentation,N/A,N/A,Yes,No,Yes,Bilateral,N/A,Mycetoma
+Lumps,Single_Large,N/A,Legs,Slow_from_Lump,N/A,N/A,N/A,Soft_Bumpy,N/A,Red,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Abscesses
+Patches,Multiple,Small,Anywhere,Follows_Trauma_Rubbing,N/A,N/A,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,Yes,N/A,No,Yes,Bilateral,N/A,Eczema
+Lumps,Single_to_Few,Medium,Legs,Unknown,N/A,Yes,No,Firm_Smooth,N/A,Red,N/A,N/A,N/A,Yes,Yes,Bilateral,None,Tungiasis
+N/A,Single_Large,Small,Genitalia,Follows_Trauma_Rubbing,N/A,N/A,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,No,Yes,No,Unilateral_or_Asymmetrical,None,Buruli_Ulcer
+Patches,Single_Large,Small,Bony_Prominences,Follows_Trauma_Rubbing,No,N/A,Yes,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,No,N/A,Yes,Yes,Unilateral_or_Asymmetrical,None,Fungal_Skin_Infection
+Lumps,Single_to_Few,N/A,Anywhere,Slow_from_Lump,N/A,Yes,No,Hard_Rough_Warty,N/A,Red,Normal,N/A,N/A,Yes,No,Bilateral,N/A,Mycetoma
+Patches,Single_to_Few,Medium,Legs,Unknown,N/A,N/A,N/A,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Scabies
+N/A,Multiple,N/A,Feet,Unknown,N/A,Yes,N/A,Hard_Rough_Warty,Yes,Reduced_Pigmentation,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Lumps,Single_to_Few,Medium,Legs,Unknown,Sometimes,Yes,N/A,Soft_Bumpy,No,Increased_Pigmentation,N/A,N/A,No,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Lumps,Single_to_Few,N/A,Legs,Slow_from_Lump,Yes,Yes,N/A,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,None,Abscesses
+Patches,Single_Large,Medium,Feet,Unknown,Sometimes,Yes,N/A,Soft_Bumpy,No,Reduced_Pigmentation,N/A,Yes,N/A,Yes,No,Unilateral_or_Asymmetrical,Varicose_Veins,Onchocerciasis
+Lumps,Single_to_Few,Small,Legs,Unknown,N/A,No,N/A,Soft_Bumpy,Yes,Increased_Pigmentation,Normal,Yes,Yes,No,No,Unilateral_or_Asymmetrical,N/A,Onchocerciasis
+Lumps,Single_to_Few,Large,Bony_Prominences,Follows_Trauma_Rubbing,Yes,N/A,No,Hard_Rough_Warty,N/A,Red,N/A,N/A,Yes,Yes,Yes,Bilateral,N/A,Abscesses
+N/A,Single_Large,Medium,Bony_Prominences,Follows_Trauma_Rubbing,No,No,Yes,Firm_Smooth,No,Increased_Pigmentation,Normal,Yes,No,Yes,No,Unilateral_or_Asymmetrical,N/A,Buruli_Ulcer
+Lumps,Multiple,Small,Bony_Prominences,Slow_from_Lump,Yes,No,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,Yellow_Crusts,Yes,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Leprosy
+Patches,Single_Large,N/A,Feet,Unknown,Sometimes,N/A,Yes,Soft_Bumpy,No,Red,Normal,N/A,N/A,No,No,Unilateral_or_Asymmetrical,Varicose_Veins,Onchocerciasis
+Lumps,Single_Large,Large,Feet,Unknown,N/A,Yes,N/A,Firm_Smooth,N/A,Red,Elephantiasis,N/A,N/A,No,No,Unilateral_or_Asymmetrical,None,Abscesses
+Lumps,Single_to_Few,Small,Feet,Unknown,Yes,Yes,No,Hard_Rough_Warty,N/A,Red,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Cutaneous_Leishmaniasis
+N/A,Single_Large,Small,Anywhere,Slow_from_Lump,N/A,N/A,N/A,Hard_Rough_Warty,Yes,Red,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Abscesses
+Patches,Single_to_Few,Small,Genitalia,Slow_from_Lump,Yes,No,Yes,Firm_Smooth,N/A,Red,N/A,N/A,N/A,No,No,Bilateral,None,Eczema
+Lumps,Single_to_Few,Large,Bony_Prominences,Slow_from_Lump,N/A,N/A,N/A,Soft_Bumpy,No,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,Yes,N/A,Yes,Yes,Bilateral,N/A,Yaws
+Lumps,Multiple,Small,Anywhere,Slow_from_Lump,Sometimes,No,Yes,Firm_Smooth,Yes,Increased_Pigmentation,N/A,No,N/A,No,Yes,Unilateral_or_Asymmetrical,Varicose_Veins,Onchocerciasis
+Ulcers,Single_to_Few,Medium,Genitalia,Slow_from_Lump,Sometimes,N/A,N/A,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,N/A,No,No,Yes,Bilateral,N/A,Yaws
+N/A,Single_Large,N/A,Legs,Slow_from_Lump,N/A,N/A,Yes,Hard_Rough_Warty,Yes,Red,N/A,Yes,N/A,No,No,Bilateral,None,Eczema
+Ulcers,Single_to_Few,Large,Feet,Follows_Trauma_Rubbing,N/A,No,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,Normal,N/A,Yes,Yes,No,Unilateral_or_Asymmetrical,None,Buruli_Ulcer
+Patches,Single_to_Few,Small,Anywhere,Follows_Trauma_Rubbing,Sometimes,N/A,No,Firm_Smooth,No,Increased_Pigmentation,Yellow_Crusts,Yes,N/A,No,Yes,Bilateral,N/A,Leprosy
+Patches,Single_Large,Large,Legs,Follows_Trauma_Rubbing,Sometimes,Yes,No,Firm_Smooth,Yes,Red,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Leprosy
+Lumps,Single_to_Few,Large,Legs,Unknown,Yes,Yes,Yes,Soft_Bumpy,N/A,Red,Normal,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Mycetoma
+Patches,Single_Large,Large,Genitalia,Follows_Trauma_Rubbing,N/A,No,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,No,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Scabies
+Ulcers,Single_Large,N/A,Anywhere,Unknown,No,No,No,Firm_Smooth,N/A,Red,Raised_Edge_Red_Pebbly_Base,N/A,N/A,Yes,No,Bilateral,None,Yaws
+Ulcers,Single_to_Few,Medium,Feet,Unknown,Yes,N/A,N/A,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,Yes,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Cutaneous_Leishmaniasis
+Lumps,Multiple,Small,Bony_Prominences,Follows_Trauma_Rubbing,N/A,No,Yes,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Elephantiasis,Yes,N/A,Yes,No,Bilateral,N/A,Abscesses
+Lumps,Multiple,Medium,Genitalia,Follows_Trauma_Rubbing,Yes,Yes,N/A,Firm_Smooth,Yes,Red,Elephantiasis,Yes,No,Yes,No,Unilateral_or_Asymmetrical,None,Abscesses
+Patches,Single_to_Few,Medium,Feet,Follows_Trauma_Rubbing,Sometimes,N/A,Yes,Hard_Rough_Warty,N/A,Red,N/A,Yes,Yes,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Scabies
+Ulcers,Single_to_Few,Small,Bony_Prominences,Unknown,N/A,N/A,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,No,Yes,No,Yes,Unilateral_or_Asymmetrical,N/A,Cutaneous_Leishmaniasis
+Lumps,Single_Large,N/A,Legs,Slow_from_Lump,N/A,No,Yes,Hard_Rough_Warty,No,Increased_Pigmentation,N/A,N/A,Yes,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Onchocerciasis
+Lumps,Single_to_Few,Large,Feet,Slow_from_Lump,N/A,No,No,Soft_Bumpy,N/A,Increased_Pigmentation,Raised_Edge_Red_Pebbly_Base,Yes,No,No,No,Unilateral_or_Asymmetrical,N/A,Cutaneous_Leishmaniasis
+Patches,Multiple,Medium,Anywhere,Follows_Trauma_Rubbing,N/A,N/A,Yes,Soft_Bumpy,N/A,Increased_Pigmentation,Yellow_Crusts,Yes,Yes,No,No,Bilateral,N/A,Leprosy
+N/A,Single_Large,Large,Legs,Unknown,N/A,No,Yes,Hard_Rough_Warty,N/A,Red,Normal,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,None,Fungal_Skin_Infection
+Lumps,Single_to_Few,Small,Feet,Follows_Trauma_Rubbing,No,Yes,N/A,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,Yes,Yes,No,Yes,Bilateral,None,Yaws
+Lumps,Single_Large,Medium,Feet,Slow_from_Lump,Yes,Yes,No,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,N/A,Abscesses
+Lumps,Multiple,Small,Legs,Slow_from_Lump,N/A,Yes,Yes,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Patches,Single_Large,N/A,Legs,Unknown,Sometimes,No,Yes,Hard_Rough_Warty,No,Increased_Pigmentation,N/A,N/A,Yes,No,Yes,Bilateral,None,Leprosy
+Lumps,Single_to_Few,Medium,Genitalia,Slow_from_Lump,Yes,Yes,N/A,Firm_Smooth,Yes,Increased_Pigmentation,N/A,Yes,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Mycetoma
+Lumps,Multiple,N/A,Bony_Prominences,Slow_from_Lump,No,N/A,N/A,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,Yes,No,Bilateral,N/A,Cutaneous_Leishmaniasis
+Ulcers,Single_Large,N/A,Feet,Unknown,No,N/A,N/A,Hard_Rough_Warty,Yes,Increased_Pigmentation,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,None,Yaws
+N/A,Multiple,Small,Anywhere,Slow_from_Lump,Sometimes,N/A,N/A,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Yellow_Crusts,No,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+N/A,Single_to_Few,Small,Genitalia,Unknown,Yes,No,No,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,Yes,N/A,No,Yes,Bilateral,N/A,Leprosy
+Patches,Multiple,Large,Bony_Prominences,Unknown,N/A,No,Yes,Hard_Rough_Warty,Yes,Increased_Pigmentation,N/A,N/A,N/A,Yes,Yes,Bilateral,None,Scabies
+Patches,Single_Large,Small,Genitalia,Follows_Trauma_Rubbing,Sometimes,N/A,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,No,No,No,Yes,Bilateral,Varicose_Veins,Onchocerciasis
+Lumps,Single_to_Few,Medium,Genitalia,Unknown,Sometimes,No,N/A,Firm_Smooth,Yes,Red,N/A,N/A,Yes,Yes,Yes,Unilateral_or_Asymmetrical,None,Yaws
+N/A,Multiple,N/A,Bony_Prominences,Slow_from_Lump,N/A,Yes,No,Firm_Smooth,N/A,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,Yes,No,Bilateral,N/A,Cutaneous_Leishmaniasis
+Swollen Limbs,Single_Large,Medium,Feet,Unknown,N/A,N/A,No,Soft_Bumpy,No,Red,Elephantiasis,No,Yes,No,Yes,Bilateral,N/A,Podoconiosis
+Swollen Limbs,Single_Large,Medium,Anywhere,Unknown,Yes,N/A,Yes,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,No,No,Yes,No,Bilateral,N/A,Podoconiosis
+Lumps,Single_Large,Large,Feet,Slow_from_Lump,No,Yes,No,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,None,Mycetoma
+N/A,Single_to_Few,N/A,Bony_Prominences,Unknown,No,Yes,N/A,Firm_Smooth,No,Increased_Pigmentation,Yellow_Crusts,N/A,N/A,No,No,Bilateral,N/A,Podoconiosis
+Lumps,Single_to_Few,Large,Legs,Unknown,Yes,No,N/A,Soft_Bumpy,N/A,Reduced_Pigmentation,Yellow_Crusts,No,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Abscesses
+Patches,Single_to_Few,N/A,Feet,Unknown,Sometimes,Yes,Yes,Hard_Rough_Warty,Yes,Red,N/A,Yes,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Scabies
+Ulcers,Multiple,Small,Bony_Prominences,Slow_from_Lump,No,No,N/A,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,Yes,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Buruli_Ulcer
+Ulcers,Multiple,Small,Genitalia,Slow_from_Lump,N/A,N/A,N/A,Hard_Rough_Warty,N/A,Red,Normal,Yes,Yes,Yes,Yes,Bilateral,N/A,Buruli_Ulcer
+Ulcers,Single_to_Few,N/A,Feet,Follows_Trauma_Rubbing,N/A,No,No,Hard_Rough_Warty,N/A,Red,Yellow_Crusts,N/A,N/A,Yes,Yes,Bilateral,N/A,Buruli_Ulcer
+N/A,Single_Large,Small,Legs,Unknown,N/A,N/A,Yes,Hard_Rough_Warty,Yes,Red,N/A,Yes,Yes,Yes,Yes,Unilateral_or_Asymmetrical,None,Tungiasis
+N/A,Multiple,Large,Anywhere,Unknown,N/A,No,N/A,Firm_Smooth,No,Reduced_Pigmentation,Normal,Yes,N/A,No,No,Bilateral,N/A,Buruli_Ulcer
+Patches,Single_Large,Small,Bony_Prominences,Follows_Trauma_Rubbing,Sometimes,Yes,Yes,Hard_Rough_Warty,No,Reduced_Pigmentation,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,None,Fungal_Skin_Infection
+Patches,Single_to_Few,Small,Legs,Unknown,Yes,N/A,Yes,Hard_Rough_Warty,No,Red,Elephantiasis,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Scabies
+Lumps,Single_Large,N/A,Anywhere,Follows_Trauma_Rubbing,N/A,Yes,N/A,Firm_Smooth,No,Reduced_Pigmentation,Elephantiasis,No,N/A,Yes,Yes,Bilateral,Varicose_Veins,Onchocerciasis
+Lumps,Single_to_Few,Small,Genitalia,Unknown,No,No,N/A,Firm_Smooth,No,Reduced_Pigmentation,Elephantiasis,N/A,No,No,No,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Swollen Limbs,Single_to_Few,Small,Legs,Slow_from_Lump,N/A,N/A,N/A,Soft_Bumpy,Yes,Increased_Pigmentation,N/A,Yes,N/A,Yes,No,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Podoconiosis
+Patches,Multiple,Medium,Legs,Unknown,Yes,Yes,N/A,Firm_Smooth,N/A,Increased_Pigmentation,Normal,No,N/A,No,No,Bilateral,Varicose_Veins,Onchocerciasis
+Patches,Multiple,Medium,Legs,Unknown,No,Yes,N/A,Firm_Smooth,N/A,Red,Elephantiasis,No,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Eczema
+N/A,Single_to_Few,Large,Anywhere,Follows_Trauma_Rubbing,N/A,No,Yes,Firm_Smooth,No,Increased_Pigmentation,N/A,Yes,N/A,Yes,Yes,Bilateral,Varicose_Veins,Onchocerciasis
+Lumps,Multiple,Large,Feet,Unknown,No,No,No,Soft_Bumpy,No,Red,Elephantiasis,N/A,N/A,No,Yes,Bilateral,None,Tungiasis
+Swollen Limbs,Single_to_Few,Small,Legs,Slow_from_Lump,Yes,N/A,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,Normal,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Lymphatic_Filariasis
+Patches,Single_to_Few,Medium,Genitalia,Unknown,Sometimes,Yes,Yes,Hard_Rough_Warty,Yes,Red,Yellow_Crusts,No,N/A,Yes,Yes,Bilateral,N/A,Fungal_Skin_Infection
+Lumps,Single_to_Few,Medium,Feet,Unknown,Sometimes,No,N/A,Firm_Smooth,Yes,Increased_Pigmentation,N/A,Yes,N/A,Yes,Yes,Unilateral_or_Asymmetrical,None,Yaws
+Lumps,Single_Large,Large,Anywhere,Follows_Trauma_Rubbing,Yes,N/A,No,Hard_Rough_Warty,N/A,Increased_Pigmentation,Elephantiasis,N/A,N/A,Yes,Yes,Bilateral,N/A,Tungiasis
+N/A,Multiple,N/A,Feet,Slow_from_Lump,Yes,Yes,No,Hard_Rough_Warty,Yes,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Abscesses
+Patches,Multiple,Medium,Feet,Unknown,No,N/A,Yes,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Yellow_Crusts,N/A,N/A,No,Yes,Bilateral,N/A,Scabies
+Lumps,Multiple,Small,Genitalia,Slow_from_Lump,Yes,Yes,No,Soft_Bumpy,Yes,Red,Elephantiasis,N/A,N/A,Yes,Yes,Bilateral,None,Abscesses
+Patches,Multiple,Medium,Feet,Follows_Trauma_Rubbing,N/A,No,Yes,Firm_Smooth,N/A,Increased_Pigmentation,Normal,N/A,N/A,Yes,Yes,Bilateral,None,Scabies
+Lumps,Single_Large,N/A,Bony_Prominences,Slow_from_Lump,No,No,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Cutaneous_Leishmaniasis
+N/A,Multiple,Small,Legs,Unknown,N/A,N/A,No,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,No,Yes,No,No,Unilateral_or_Asymmetrical,None,Yaws
+Lumps,Multiple,N/A,Genitalia,Slow_from_Lump,Yes,N/A,No,Soft_Bumpy,Yes,Reduced_Pigmentation,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Abscesses
+N/A,Single_Large,Small,Legs,Slow_from_Lump,Yes,N/A,Yes,Soft_Bumpy,No,Red,N/A,N/A,N/A,No,Yes,Bilateral,Long_Standing_Lymphoedema,Podoconiosis
+Patches,Single_to_Few,Medium,Anywhere,Follows_Trauma_Rubbing,Sometimes,No,No,Firm_Smooth,Yes,Reduced_Pigmentation,Elephantiasis,Yes,N/A,No,Yes,Bilateral,None,Leprosy
+N/A,Multiple,Medium,Anywhere,Unknown,No,N/A,No,Firm_Smooth,N/A,Increased_Pigmentation,Raised_Edge_Red_Pebbly_Base,Yes,N/A,No,No,Unilateral_or_Asymmetrical,None,Yaws
+Patches,Multiple,N/A,Bony_Prominences,Unknown,Sometimes,N/A,N/A,Hard_Rough_Warty,No,Increased_Pigmentation,N/A,No,Yes,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Scabies
+N/A,Multiple,Large,Legs,Unknown,N/A,Yes,N/A,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,No,Yes,No,No,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Lumps,Multiple,Medium,Bony_Prominences,Unknown,No,No,Yes,Firm_Smooth,N/A,Red,Yellow_Crusts,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Lumps,Multiple,Medium,Bony_Prominences,Follows_Trauma_Rubbing,Yes,No,No,Hard_Rough_Warty,N/A,Red,N/A,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Lumps,Single_to_Few,Small,Bony_Prominences,Unknown,Yes,N/A,No,Firm_Smooth,N/A,Red,N/A,No,Yes,No,No,Unilateral_or_Asymmetrical,N/A,Cutaneous_Leishmaniasis
+Patches,Single_Large,Small,Feet,Follows_Trauma_Rubbing,Yes,Yes,Yes,Hard_Rough_Warty,N/A,Red,Yellow_Crusts,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Onchocerciasis
+Swollen Limbs,Single_Large,N/A,Legs,Follows_Trauma_Rubbing,N/A,No,No,Firm_Smooth,Yes,Red,N/A,Yes,N/A,No,Yes,Bilateral,Long_Standing_Lymphoedema,Podoconiosis
+Patches,Single_Large,Medium,Feet,Follows_Trauma_Rubbing,Sometimes,N/A,Yes,Firm_Smooth,Yes,Red,Normal,No,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Fungal_Skin_Infection
+Patches,Single_to_Few,Large,Feet,Follows_Trauma_Rubbing,Sometimes,N/A,N/A,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,N/A,Yes,No,No,Unilateral_or_Asymmetrical,N/A,Onchocerciasis
+N/A,Single_Large,Large,Legs,Unknown,N/A,Yes,No,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Cutaneous_Leishmaniasis
+N/A,Single_Large,N/A,Anywhere,Slow_from_Lump,No,No,No,Soft_Bumpy,No,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,Yes,No,Yes,No,Unilateral_or_Asymmetrical,N/A,Yaws
+Lumps,Single_to_Few,Large,Genitalia,Unknown,No,No,N/A,Hard_Rough_Warty,N/A,Red,N/A,N/A,N/A,No,No,Bilateral,N/A,Yaws
+Swollen Limbs,Single_to_Few,N/A,Anywhere,Unknown,N/A,Yes,No,Soft_Bumpy,N/A,Increased_Pigmentation,Normal,No,N/A,No,Yes,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Podoconiosis
+N/A,Multiple,N/A,Feet,Follows_Trauma_Rubbing,Yes,N/A,Yes,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,N/A,N/A,No,Yes,Bilateral,N/A,Cutaneous_Leishmaniasis
+Lumps,Single_to_Few,Medium,Legs,Slow_from_Lump,N/A,N/A,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,Yes,No,No,Yes,Bilateral,N/A,Cutaneous_Leishmaniasis
+Lumps,Single_to_Few,Small,Bony_Prominences,Follows_Trauma_Rubbing,No,No,No,Soft_Bumpy,N/A,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,No,No,Bilateral,N/A,Yaws
+Ulcers,Multiple,Small,Genitalia,Slow_from_Lump,N/A,Yes,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Cutaneous_Leishmaniasis
+Patches,Single_to_Few,Medium,Bony_Prominences,Unknown,N/A,N/A,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,None,Leprosy
+Ulcers,Single_to_Few,N/A,Genitalia,Unknown,N/A,N/A,No,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Buruli_Ulcer
+Ulcers,Single_Large,Medium,Bony_Prominences,Follows_Trauma_Rubbing,N/A,No,No,Hard_Rough_Warty,N/A,Increased_Pigmentation,Yellow_Crusts,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Buruli_Ulcer
+Patches,Single_Large,Small,Legs,Slow_from_Lump,N/A,Yes,N/A,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,N/A,N/A,No,Yes,Bilateral,None,Eczema
+Swollen Limbs,Single_Large,Small,Feet,Unknown,N/A,N/A,N/A,Hard_Rough_Warty,No,Reduced_Pigmentation,N/A,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+Lumps,Multiple,Large,Anywhere,Slow_from_Lump,Sometimes,Yes,No,Firm_Smooth,Yes,Reduced_Pigmentation,Elephantiasis,N/A,N/A,Yes,Yes,Bilateral,N/A,Mycetoma
+N/A,Multiple,Small,Genitalia,Follows_Trauma_Rubbing,No,No,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Podoconiosis
+Ulcers,Single_Large,Medium,Feet,Follows_Trauma_Rubbing,N/A,Yes,No,Hard_Rough_Warty,Yes,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,Yes,No,Bilateral,N/A,Yaws
+N/A,Multiple,Small,Genitalia,Slow_from_Lump,N/A,Yes,Yes,Firm_Smooth,Yes,Increased_Pigmentation,N/A,N/A,Yes,No,Yes,Unilateral_or_Asymmetrical,N/A,Onchocerciasis
+Lumps,Single_Large,N/A,Legs,Unknown,Yes,Yes,N/A,Firm_Smooth,Yes,Increased_Pigmentation,N/A,N/A,Yes,No,Yes,Unilateral_or_Asymmetrical,None,Abscesses
+Swollen Limbs,Single_Large,Large,Anywhere,Unknown,N/A,No,N/A,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,No,N/A,No,Yes,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Podoconiosis
+N/A,Multiple,Medium,Anywhere,Slow_from_Lump,No,N/A,Yes,Hard_Rough_Warty,No,Reduced_Pigmentation,N/A,N/A,No,Yes,No,Unilateral_or_Asymmetrical,N/A,Scabies
+Lumps,Multiple,N/A,Anywhere,Follows_Trauma_Rubbing,Yes,Yes,Yes,Firm_Smooth,Yes,Increased_Pigmentation,N/A,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Mycetoma
+N/A,Single_to_Few,N/A,Feet,Unknown,Sometimes,N/A,No,Hard_Rough_Warty,Yes,Red,N/A,Yes,Yes,No,No,Bilateral,None,Yaws
+Ulcers,Single_Large,Small,Bony_Prominences,Follows_Trauma_Rubbing,N/A,No,No,Hard_Rough_Warty,N/A,Red,Raised_Edge_Red_Pebbly_Base,N/A,N/A,No,Yes,Bilateral,N/A,Yaws
+Patches,Single_to_Few,Small,Bony_Prominences,Unknown,N/A,No,Yes,Firm_Smooth,Yes,Reduced_Pigmentation,Yellow_Crusts,No,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Onchocerciasis
+Swollen Limbs,Single_Large,Medium,Anywhere,Slow_from_Lump,N/A,N/A,N/A,Hard_Rough_Warty,N/A,Reduced_Pigmentation,Yellow_Crusts,Yes,N/A,No,Yes,Bilateral,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Lumps,Multiple,Medium,Feet,Slow_from_Lump,No,Yes,Yes,Firm_Smooth,No,Red,Normal,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Onchocerciasis
+Patches,Multiple,Medium,Genitalia,Follows_Trauma_Rubbing,N/A,Yes,N/A,Firm_Smooth,N/A,Reduced_Pigmentation,Yellow_Crusts,Yes,No,Yes,Yes,Bilateral,N/A,Eczema
+N/A,Multiple,Medium,Bony_Prominences,Follows_Trauma_Rubbing,Yes,No,N/A,Hard_Rough_Warty,Yes,Increased_Pigmentation,N/A,N/A,No,Yes,No,Bilateral,N/A,Abscesses
+N/A,Single_Large,Medium,Legs,Unknown,N/A,No,Yes,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,Yes,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Buruli_Ulcer
+Swollen Limbs,Single_Large,Medium,Genitalia,Unknown,Yes,No,No,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Podoconiosis
+Ulcers,Single_to_Few,N/A,Genitalia,Unknown,N/A,No,N/A,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,Yes,N/A,Yes,Yes,Unilateral_or_Asymmetrical,None,Cutaneous_Leishmaniasis
+Ulcers,Single_to_Few,N/A,Anywhere,Unknown,Sometimes,Yes,No,Firm_Smooth,N/A,Increased_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Yaws
+Lumps,Single_Large,N/A,Anywhere,Unknown,N/A,N/A,No,Hard_Rough_Warty,Yes,Reduced_Pigmentation,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Cutaneous_Leishmaniasis
+N/A,Single_to_Few,N/A,Genitalia,Unknown,Sometimes,Yes,N/A,Firm_Smooth,N/A,Red,N/A,No,N/A,No,Yes,Bilateral,None,Fungal_Skin_Infection
+N/A,Single_Large,N/A,Bony_Prominences,Unknown,Yes,Yes,Yes,Hard_Rough_Warty,N/A,Red,N/A,Yes,Yes,Yes,No,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Podoconiosis
+Ulcers,Multiple,Large,Legs,Unknown,N/A,No,N/A,Firm_Smooth,Yes,Red,Normal,No,No,Yes,No,Unilateral_or_Asymmetrical,N/A,Buruli_Ulcer
+Patches,Multiple,Large,Bony_Prominences,Follows_Trauma_Rubbing,No,Yes,Yes,Soft_Bumpy,Yes,Red,N/A,Yes,N/A,Yes,Yes,Bilateral,N/A,Scabies
+N/A,Multiple,Medium,Legs,Follows_Trauma_Rubbing,Sometimes,No,Yes,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,No,No,No,Yes,Bilateral,None,Fungal_Skin_Infection
+Lumps,Single_Large,Medium,Feet,Unknown,Sometimes,No,No,Soft_Bumpy,Yes,Red,N/A,Yes,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Lumps,Single_Large,N/A,Bony_Prominences,Slow_from_Lump,Yes,N/A,N/A,Soft_Bumpy,No,Reduced_Pigmentation,Yellow_Crusts,No,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Swollen Limbs,Single_Large,N/A,Anywhere,Slow_from_Lump,No,N/A,No,Firm_Smooth,Yes,Increased_Pigmentation,Elephantiasis,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+N/A,Single_Large,Medium,Bony_Prominences,Slow_from_Lump,No,N/A,Yes,Firm_Smooth,N/A,Red,N/A,N/A,Yes,Yes,Yes,Unilateral_or_Asymmetrical,None,Cutaneous_Leishmaniasis
+Patches,Multiple,Small,Legs,Slow_from_Lump,N/A,N/A,No,Soft_Bumpy,No,Increased_Pigmentation,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Leprosy
+Patches,Single_to_Few,N/A,Genitalia,Follows_Trauma_Rubbing,N/A,N/A,Yes,Hard_Rough_Warty,No,Increased_Pigmentation,N/A,N/A,Yes,Yes,No,Bilateral,Varicose_Veins,Onchocerciasis
+Swollen Limbs,Single_to_Few,Medium,Legs,Follows_Trauma_Rubbing,Yes,Yes,Yes,Firm_Smooth,No,Reduced_Pigmentation,N/A,N/A,No,Yes,Yes,Bilateral,N/A,Podoconiosis
+Lumps,Multiple,Small,Anywhere,Slow_from_Lump,Yes,No,N/A,Soft_Bumpy,No,Reduced_Pigmentation,N/A,No,N/A,Yes,No,Bilateral,N/A,Onchocerciasis
+Patches,Single_to_Few,Medium,Anywhere,Unknown,N/A,N/A,Yes,Firm_Smooth,N/A,Increased_Pigmentation,N/A,No,N/A,No,No,Unilateral_or_Asymmetrical,None,Fungal_Skin_Infection
+Lumps,Multiple,N/A,Genitalia,Unknown,Yes,Yes,No,Soft_Bumpy,No,Increased_Pigmentation,Yellow_Crusts,Yes,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Tungiasis
+Lumps,Multiple,Large,Genitalia,Follows_Trauma_Rubbing,N/A,No,No,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,None,Leprosy
+Patches,Multiple,Small,Legs,Unknown,No,N/A,Yes,Hard_Rough_Warty,N/A,Reduced_Pigmentation,N/A,No,Yes,No,Yes,Bilateral,N/A,Fungal_Skin_Infection
+Lumps,Multiple,Medium,Feet,Follows_Trauma_Rubbing,N/A,No,No,Soft_Bumpy,Yes,Increased_Pigmentation,Yellow_Crusts,N/A,N/A,No,No,Bilateral,N/A,Abscesses
+N/A,Single_to_Few,Large,Genitalia,Follows_Trauma_Rubbing,No,No,Yes,Hard_Rough_Warty,No,Red,N/A,N/A,No,No,Yes,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Swollen Limbs,Multiple,N/A,Anywhere,Slow_from_Lump,Sometimes,No,No,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,N/A,Yes,No,Yes,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Lymphatic_Filariasis
+Lumps,Single_to_Few,N/A,Bony_Prominences,Follows_Trauma_Rubbing,Yes,No,Yes,Hard_Rough_Warty,No,Increased_Pigmentation,N/A,No,N/A,No,No,Bilateral,Varicose_Veins,Onchocerciasis
+Patches,Multiple,Medium,Feet,Follows_Trauma_Rubbing,No,N/A,Yes,Hard_Rough_Warty,Yes,Increased_Pigmentation,N/A,N/A,Yes,Yes,No,Unilateral_or_Asymmetrical,N/A,Scabies
+Lumps,Single_Large,Medium,Legs,Follows_Trauma_Rubbing,No,Yes,No,Soft_Bumpy,N/A,Red,N/A,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Yaws
+Swollen Limbs,Single_to_Few,Medium,Anywhere,Unknown,N/A,Yes,N/A,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,No,N/A,Yes,Yes,Bilateral,N/A,Lymphatic_Filariasis
+Patches,Single_Large,Small,Genitalia,Follows_Trauma_Rubbing,N/A,No,Yes,Soft_Bumpy,No,Increased_Pigmentation,N/A,Yes,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Fungal_Skin_Infection
+Ulcers,Single_Large,Small,Anywhere,Unknown,No,N/A,No,Firm_Smooth,N/A,Increased_Pigmentation,Elephantiasis,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Buruli_Ulcer
+Swollen Limbs,Multiple,Medium,Bony_Prominences,Unknown,Sometimes,No,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,Yellow_Crusts,Yes,N/A,Yes,Yes,Bilateral,Long_Standing_Lymphoedema,Podoconiosis
+Lumps,Multiple,Medium,Bony_Prominences,Unknown,No,No,N/A,Hard_Rough_Warty,No,Reduced_Pigmentation,Yellow_Crusts,No,Yes,No,Yes,Unilateral_or_Asymmetrical,None,Tungiasis
+N/A,Single_to_Few,Medium,Legs,Follows_Trauma_Rubbing,N/A,Yes,N/A,Hard_Rough_Warty,Yes,Red,Normal,No,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+Lumps,Single_Large,Large,Feet,Unknown,Yes,N/A,No,Soft_Bumpy,Yes,Increased_Pigmentation,N/A,N/A,Yes,No,Yes,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Lumps,Single_to_Few,Medium,Bony_Prominences,Follows_Trauma_Rubbing,Yes,Yes,N/A,Firm_Smooth,N/A,Red,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Tungiasis
+Lumps,Single_Large,N/A,Bony_Prominences,Follows_Trauma_Rubbing,N/A,Yes,No,Hard_Rough_Warty,Yes,Reduced_Pigmentation,Normal,N/A,Yes,No,No,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Lumps,Single_to_Few,Small,Legs,Slow_from_Lump,No,No,No,Hard_Rough_Warty,Yes,Reduced_Pigmentation,Elephantiasis,N/A,N/A,Yes,No,Bilateral,N/A,Tungiasis
+Patches,Single_to_Few,Large,Anywhere,Follows_Trauma_Rubbing,No,No,N/A,Firm_Smooth,No,Increased_Pigmentation,Elephantiasis,No,No,No,Yes,Bilateral,N/A,Eczema
+N/A,Single_to_Few,Medium,Genitalia,Follows_Trauma_Rubbing,N/A,No,N/A,Firm_Smooth,N/A,Increased_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Yaws
+Patches,Single_to_Few,N/A,Anywhere,Slow_from_Lump,Sometimes,Yes,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,N/A,Yes,N/A,Yes,No,Bilateral,N/A,Fungal_Skin_Infection
+Patches,Single_Large,Small,Anywhere,Slow_from_Lump,Sometimes,N/A,No,Hard_Rough_Warty,Yes,Increased_Pigmentation,N/A,Yes,N/A,No,Yes,Unilateral_or_Asymmetrical,None,Leprosy
+Lumps,Single_Large,Large,Genitalia,Unknown,N/A,Yes,N/A,Firm_Smooth,No,Red,N/A,No,No,Yes,No,Bilateral,None,Tungiasis
+Lumps,Single_Large,Small,Bony_Prominences,Slow_from_Lump,Yes,No,N/A,Soft_Bumpy,N/A,Increased_Pigmentation,Elephantiasis,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Abscesses
+Lumps,Single_to_Few,N/A,Bony_Prominences,Follows_Trauma_Rubbing,No,Yes,Yes,Firm_Smooth,N/A,Increased_Pigmentation,N/A,No,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Tungiasis
+Ulcers,Single_to_Few,Small,Legs,Unknown,No,No,N/A,Hard_Rough_Warty,No,Red,Elephantiasis,Yes,N/A,Yes,Yes,Bilateral,None,Buruli_Ulcer
+Ulcers,Multiple,Small,Anywhere,Follows_Trauma_Rubbing,No,N/A,No,Soft_Bumpy,N/A,Increased_Pigmentation,N/A,N/A,Yes,Yes,No,Bilateral,N/A,Yaws
+Lumps,Single_to_Few,Large,Anywhere,Follows_Trauma_Rubbing,No,No,N/A,Firm_Smooth,N/A,Red,Elephantiasis,N/A,N/A,No,Yes,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Patches,Single_to_Few,Large,Genitalia,Slow_from_Lump,Yes,Yes,Yes,Soft_Bumpy,N/A,Red,Yellow_Crusts,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Eczema
+N/A,Single_to_Few,Medium,Genitalia,Slow_from_Lump,N/A,Yes,No,Firm_Smooth,N/A,Red,N/A,Yes,Yes,No,Yes,Bilateral,N/A,Leprosy
+Patches,Single_to_Few,Small,Genitalia,Slow_from_Lump,Yes,No,Yes,Hard_Rough_Warty,Yes,Reduced_Pigmentation,Elephantiasis,No,N/A,Yes,No,Bilateral,N/A,Fungal_Skin_Infection
+Swollen Limbs,Single_Large,Medium,Legs,Slow_from_Lump,N/A,N/A,N/A,Firm_Smooth,N/A,Red,Elephantiasis,No,N/A,No,No,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Podoconiosis
+Lumps,Single_Large,N/A,Feet,Slow_from_Lump,N/A,Yes,N/A,Soft_Bumpy,Yes,Red,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Abscesses
+Ulcers,Single_Large,Large,Bony_Prominences,Follows_Trauma_Rubbing,Yes,No,N/A,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,No,No,Yes,Unilateral_or_Asymmetrical,None,Cutaneous_Leishmaniasis
+Patches,Single_to_Few,Large,Genitalia,Follows_Trauma_Rubbing,Yes,N/A,N/A,Soft_Bumpy,Yes,Red,N/A,Yes,No,Yes,Yes,Bilateral,N/A,Onchocerciasis
+N/A,Single_Large,Medium,Genitalia,Slow_from_Lump,Yes,N/A,N/A,Soft_Bumpy,N/A,Increased_Pigmentation,Normal,N/A,Yes,No,No,Bilateral,N/A,Fungal_Skin_Infection
+N/A,Multiple,Large,Legs,Unknown,N/A,No,N/A,Hard_Rough_Warty,Yes,Red,N/A,No,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Scabies
+Patches,Multiple,Small,Legs,Follows_Trauma_Rubbing,No,Yes,Yes,Hard_Rough_Warty,No,Red,N/A,N/A,N/A,No,Yes,Bilateral,None,Scabies
+Swollen Limbs,Single_to_Few,Small,Genitalia,Follows_Trauma_Rubbing,N/A,No,No,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Lymphatic_Filariasis
+N/A,Multiple,Medium,Anywhere,Unknown,N/A,Yes,N/A,Firm_Smooth,N/A,Increased_Pigmentation,Elephantiasis,N/A,N/A,No,No,Unilateral_or_Asymmetrical,Long_Standing_Lymphoedema,Podoconiosis
+Ulcers,Single_Large,N/A,Genitalia,Slow_from_Lump,N/A,N/A,No,Hard_Rough_Warty,N/A,Increased_Pigmentation,Normal,Yes,N/A,Yes,Yes,Bilateral,N/A,Buruli_Ulcer
+N/A,Multiple,N/A,Feet,Follows_Trauma_Rubbing,N/A,No,Yes,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Fungal_Skin_Infection
+Lumps,Single_to_Few,N/A,Genitalia,Follows_Trauma_Rubbing,N/A,Yes,Yes,Firm_Smooth,Yes,Red,Normal,N/A,N/A,No,Yes,Bilateral,N/A,Mycetoma
+Lumps,Multiple,Large,Feet,Unknown,No,No,N/A,Firm_Smooth,Yes,Reduced_Pigmentation,Elephantiasis,N/A,N/A,Yes,No,Unilateral_or_Asymmetrical,None,Mycetoma
+Swollen Limbs,Single_Large,Medium,Anywhere,Unknown,N/A,Yes,N/A,Hard_Rough_Warty,No,Red,N/A,N/A,N/A,No,Yes,Bilateral,N/A,Lymphatic_Filariasis
+Lumps,Multiple,Small,Legs,Unknown,No,Yes,N/A,Soft_Bumpy,Yes,Reduced_Pigmentation,N/A,Yes,Yes,No,No,Bilateral,N/A,Onchocerciasis
+Swollen Limbs,Single_Large,N/A,Bony_Prominences,Follows_Trauma_Rubbing,N/A,N/A,N/A,Firm_Smooth,No,Red,Elephantiasis,Yes,N/A,Yes,Yes,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+N/A,Single_Large,N/A,Bony_Prominences,Follows_Trauma_Rubbing,Sometimes,No,N/A,Hard_Rough_Warty,N/A,Red,Normal,N/A,N/A,No,No,Bilateral,None,Eczema
+Ulcers,Multiple,N/A,Legs,Slow_from_Lump,N/A,No,No,Hard_Rough_Warty,N/A,Reduced_Pigmentation,N/A,N/A,N/A,Yes,No,Bilateral,N/A,Yaws
+Lumps,Single_Large,N/A,Legs,Unknown,N/A,Yes,N/A,Soft_Bumpy,N/A,Reduced_Pigmentation,N/A,N/A,Yes,No,Yes,Unilateral_or_Asymmetrical,None,Abscesses
+Lumps,Single_Large,Small,Genitalia,Slow_from_Lump,No,No,N/A,Firm_Smooth,N/A,Red,N/A,Yes,N/A,No,No,Bilateral,None,Leprosy
+Patches,Single_Large,Small,Genitalia,Follows_Trauma_Rubbing,N/A,Yes,N/A,Soft_Bumpy,N/A,Red,N/A,Yes,N/A,Yes,Yes,Bilateral,None,Scabies
+N/A,Single_Large,Large,Feet,Slow_from_Lump,Sometimes,Yes,N/A,Soft_Bumpy,N/A,Red,N/A,N/A,N/A,Yes,Yes,Bilateral,None,Eczema
+N/A,Single_to_Few,Large,Genitalia,Slow_from_Lump,Yes,Yes,N/A,Firm_Smooth,Yes,Increased_Pigmentation,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Lymphatic_Filariasis
+Patches,Single_to_Few,Medium,Anywhere,Slow_from_Lump,N/A,Yes,N/A,Firm_Smooth,N/A,Increased_Pigmentation,N/A,N/A,Yes,No,No,Unilateral_or_Asymmetrical,Varicose_Veins,Onchocerciasis
+Lumps,Single_Large,N/A,Anywhere,Follows_Trauma_Rubbing,No,Yes,No,Hard_Rough_Warty,No,Reduced_Pigmentation,N/A,N/A,N/A,Yes,Yes,Unilateral_or_Asymmetrical,None,Tungiasis
+Lumps,Single_Large,Small,Feet,Follows_Trauma_Rubbing,Yes,N/A,No,Hard_Rough_Warty,N/A,Red,N/A,N/A,Yes,Yes,No,Unilateral_or_Asymmetrical,N/A,Abscesses
+Patches,Multiple,Medium,Bony_Prominences,Unknown,N/A,No,Yes,Firm_Smooth,Yes,Increased_Pigmentation,N/A,N/A,N/A,No,Yes,Bilateral,N/A,Fungal_Skin_Infection
+Patches,Single_Large,Medium,Bony_Prominences,Unknown,No,N/A,N/A,Hard_Rough_Warty,No,Reduced_Pigmentation,N/A,N/A,N/A,No,Yes,Bilateral,None,Scabies
+Lumps,Single_Large,N/A,Legs,Unknown,N/A,Yes,No,Soft_Bumpy,Yes,Red,N/A,No,No,No,No,Unilateral_or_Asymmetrical,N/A,Abscesses
+N/A,Single_to_Few,Small,Bony_Prominences,Follows_Trauma_Rubbing,Sometimes,N/A,Yes,Soft_Bumpy,No,Red,Normal,N/A,No,No,Yes,Bilateral,N/A,Scabies
+Ulcers,Single_to_Few,Large,Feet,Unknown,No,No,N/A,Firm_Smooth,Yes,Reduced_Pigmentation,Raised_Edge_Red_Pebbly_Base,N/A,Yes,No,No,Unilateral_or_Asymmetrical,N/A,Yaws
+N/A,Single_Large,Large,Bony_Prominences,Slow_from_Lump,No,Yes,Yes,Hard_Rough_Warty,N/A,Increased_Pigmentation,N/A,Yes,N/A,Yes,Yes,Bilateral,Varicose_Veins,Onchocerciasis
+Patches,Single_to_Few,Small,Bony_Prominences,Unknown,Sometimes,N/A,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,Normal,No,N/A,No,No,Bilateral,N/A,Scabies
+Lumps,Single_to_Few,Medium,Genitalia,Unknown,N/A,N/A,No,Soft_Bumpy,Yes,Reduced_Pigmentation,N/A,Yes,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Leprosy
+Lumps,Multiple,N/A,Anywhere,Unknown,No,No,No,Soft_Bumpy,N/A,Red,Normal,Yes,N/A,No,No,Bilateral,None,Mycetoma
+Ulcers,Single_to_Few,N/A,Genitalia,Unknown,No,No,N/A,Hard_Rough_Warty,No,Red,N/A,Yes,Yes,No,Yes,Unilateral_or_Asymmetrical,N/A,Buruli_Ulcer
+Lumps,Multiple,Large,Bony_Prominences,Unknown,Sometimes,N/A,N/A,Soft_Bumpy,Yes,Red,Yellow_Crusts,No,Yes,Yes,No,Unilateral_or_Asymmetrical,None,Tungiasis
+N/A,Multiple,N/A,Genitalia,Unknown,No,Yes,N/A,Soft_Bumpy,Yes,Increased_Pigmentation,N/A,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Podoconiosis
+N/A,Multiple,Small,Feet,Slow_from_Lump,N/A,No,Yes,Hard_Rough_Warty,N/A,Reduced_Pigmentation,N/A,N/A,Yes,No,No,Bilateral,N/A,Abscesses
+Lumps,Single_Large,Large,Anywhere,Slow_from_Lump,Sometimes,No,Yes,Firm_Smooth,N/A,Reduced_Pigmentation,Normal,N/A,No,Yes,No,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Patches,Single_Large,Large,Genitalia,Follows_Trauma_Rubbing,N/A,No,N/A,Hard_Rough_Warty,Yes,Reduced_Pigmentation,N/A,Yes,N/A,Yes,No,Bilateral,None,Leprosy
+Patches,Single_Large,N/A,Genitalia,Follows_Trauma_Rubbing,N/A,N/A,N/A,Firm_Smooth,N/A,Red,N/A,N/A,N/A,No,No,Bilateral,None,Scabies
+Lumps,Single_Large,Small,Feet,Slow_from_Lump,N/A,Yes,Yes,Soft_Bumpy,N/A,Red,N/A,N/A,Yes,No,Yes,Unilateral_or_Asymmetrical,N/A,Abscesses
+Lumps,Single_Large,Small,Bony_Prominences,Slow_from_Lump,Yes,Yes,Yes,Soft_Bumpy,Yes,Red,Yellow_Crusts,Yes,N/A,Yes,No,Unilateral_or_Asymmetrical,N/A,Tungiasis
+Patches,Multiple,Medium,Bony_Prominences,Slow_from_Lump,Yes,Yes,N/A,Hard_Rough_Warty,N/A,Red,Elephantiasis,N/A,No,No,No,Bilateral,None,Fungal_Skin_Infection
+Lumps,Single_Large,Large,Genitalia,Slow_from_Lump,Yes,Yes,N/A,Firm_Smooth,Yes,Red,N/A,N/A,N/A,No,Yes,Bilateral,N/A,Mycetoma
+Lumps,Multiple,N/A,Genitalia,Follows_Trauma_Rubbing,Sometimes,Yes,No,Firm_Smooth,Yes,Reduced_Pigmentation,N/A,N/A,N/A,No,No,Bilateral,None,Mycetoma
+N/A,Single_to_Few,Large,Anywhere,Unknown,No,Yes,Yes,Soft_Bumpy,No,Reduced_Pigmentation,Elephantiasis,No,N/A,No,No,Unilateral_or_Asymmetrical,None,Scabies
+Patches,Multiple,Small,Genitalia,Slow_from_Lump,No,N/A,N/A,Soft_Bumpy,No,Red,Yellow_Crusts,N/A,N/A,No,No,Bilateral,N/A,Scabies
+Swollen Limbs,Multiple,Large,Legs,Follows_Trauma_Rubbing,No,No,Yes,Soft_Bumpy,N/A,Increased_Pigmentation,Elephantiasis,N/A,N/A,No,No,Bilateral,N/A,Podoconiosis
+Lumps,Multiple,Medium,Bony_Prominences,Unknown,Yes,No,N/A,Firm_Smooth,N/A,Red,Yellow_Crusts,N/A,No,No,No,Unilateral_or_Asymmetrical,N/A,Mycetoma
+Patches,Single_Large,Medium,Genitalia,Slow_from_Lump,Yes,N/A,Yes,Hard_Rough_Warty,No,Reduced_Pigmentation,Elephantiasis,N/A,N/A,Yes,Yes,Bilateral,N/A,Eczema
+N/A,Single_Large,Large,Legs,Follows_Trauma_Rubbing,Yes,Yes,Yes,Soft_Bumpy,N/A,Reduced_Pigmentation,Elephantiasis,N/A,N/A,No,No,Unilateral_or_Asymmetrical,N/A,Fungal_Skin_Infection
